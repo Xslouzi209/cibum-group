@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carta CIBUM | Carnes, Paellas, Tapas y Más</title>
+  <meta name="description" content="Descubre la carta completa de Cibum: carta de parrilla, desayunos, menú de noche y mucho más. La misma carta en Cornellà y Sant Boi.">
+  <link rel="icon" href="images/icono-1-150x150.png" type="image/png">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .carta-tabs {
+      position: sticky;
+      top: var(--nav-height);
+      z-index: 100;
+      background: var(--color-dark-2);
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      padding: 0 2rem;
+    }
+    .carta-tabs-inner {
+      max-width: 1280px;
+      margin: 0 auto;
+      display: flex;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .carta-tabs-inner::-webkit-scrollbar { display: none; }
+
+    .carta-nav-item {
+      flex-shrink: 0;
+      padding: 1.25rem 1.5rem;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.45);
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      transition: color 0.2s, border-color 0.2s;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .carta-nav-item:hover { color: rgba(255,255,255,0.75); }
+    .carta-nav-item.active {
+      color: var(--color-gold);
+      border-bottom-color: var(--color-gold);
+    }
+
+    /* PDF download cards */
+    .download-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.25rem;
+      margin-bottom: 4rem;
+    }
+    .download-card {
+      background: var(--color-dark-2);
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 4px;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      transition: border-color 0.3s, transform 0.3s;
+      text-decoration: none;
+    }
+    .download-card:hover {
+      border-color: rgba(196,154,61,0.35);
+      transform: translateY(-4px);
+    }
+    .download-card__icon {
+      font-size: 2rem;
+      color: var(--color-gold);
+    }
+    .download-card__title {
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      color: var(--color-white);
+    }
+    .download-card__desc {
+      font-size: 0.82rem;
+      color: rgba(255,255,255,0.45);
+      line-height: 1.6;
+    }
+    .download-card__badge {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--color-brand-light);
+      background: rgba(140,28,48,0.15);
+      border: 1px solid rgba(140,28,48,0.25);
+      padding: 0.25rem 0.6rem;
+      border-radius: 2rem;
+    }
+
+    /* Menu section items */
+    .menu-section {
+      margin-bottom: 4rem;
+    }
+    .menu-section__title {
+      font-family: var(--font-display);
+      font-size: 1.6rem;
+      font-weight: 400;
+      color: var(--color-white);
+      margin-bottom: 0.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    .menu-section__subtitle {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.4);
+      margin-bottom: 2rem;
+      font-style: italic;
+    }
+    .menu-items {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+    .menu-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: 1.1rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+      transition: background 0.2s;
+    }
+    .menu-item:last-child { border-bottom: none; }
+    .menu-item:hover { background: rgba(255,255,255,0.02); margin: 0 -1rem; padding: 1.1rem 1rem; }
+    .menu-item__info { flex: 1; }
+    .menu-item__name {
+      font-weight: 500;
+      color: rgba(255,255,255,0.87);
+      font-size: 0.95rem;
+      margin-bottom: 0.25rem;
+    }
+    .menu-item__desc {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.38);
+      line-height: 1.5;
+    }
+    .menu-item__dots {
+      flex: 1;
+      border-bottom: 1px dotted rgba(255,255,255,0.12);
+      margin: 0 1rem;
+      margin-bottom: 0.3rem;
+      align-self: flex-end;
+    }
+    .menu-item__price {
+      font-family: var(--font-display);
+      font-size: 1.05rem;
+      color: var(--color-gold);
+      font-weight: 500;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .carta-panel { display: none; }
+    .carta-panel.active { display: block; }
+
+    /* Featured banner */
+    .featured-banner {
+      background: linear-gradient(135deg, var(--color-brand-dark), var(--color-brand));
+      border-radius: 4px;
+      padding: 2rem 2.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.5rem;
+      margin-bottom: 3rem;
+      flex-wrap: wrap;
+    }
+    .featured-banner__text h3 {
+      font-family: var(--font-display);
+      font-size: 1.4rem;
+      color: white;
+      margin-bottom: 0.4rem;
+    }
+    .featured-banner__text p {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.7);
+    }
+
+    @media (max-width: 768px) {
+      .download-grid { grid-template-columns: 1fr; }
+    }
+    @media (min-width: 769px) and (max-width: 992px) {
+      .download-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Page Loader -->
+  <div class="page-loader">
+    <img src="images/cibum-logo-1.png" alt="Cibum" class="page-loader__logo">
+    <div class="page-loader__bar"></div>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="navbar__inner">
+      <a href="index.html" class="navbar__logo">
+        <img src="images/cibum-logo-1.png" alt="CIBUM Group">
+      </a>
+      <div class="navbar__links">
+        <a href="index.html" class="navbar__link">Inicio</a>
+        <a href="galeria.html" class="navbar__link">Galería</a>
+        <div class="navbar__dropdown">
+          <a href="carta.html" class="navbar__link active">Carta &#9662;</a>
+          <div class="navbar__dropdown-menu">
+            <a href="carta.html" class="navbar__dropdown-item">Carta Completa</a>
+            <a href="menus.html" class="navbar__dropdown-item">Menús para Grupos</a>
+            <a href="menus.html#finde" class="navbar__dropdown-item">Menú Fin de Semana</a>
+            <a href="menus.html#infantil" class="navbar__dropdown-item">Menú Infantil</a>
+          </div>
+        </div>
+        <div class="navbar__dropdown">
+          <a href="cornella.html" class="navbar__link">Restaurantes &#9662;</a>
+          <div class="navbar__dropdown-menu">
+            <a href="cornella.html" class="navbar__dropdown-item">Cornellà</a>
+            <a href="sant-boi.html" class="navbar__dropdown-item">Sant Boi</a>
+          </div>
+        </div>
+      </div>
+      <a href="tel:722603411" class="btn btn--primary navbar__cta">Reservar</a>
+      <button class="navbar__hamburger" aria-label="Menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mobile Menu -->
+  <div class="navbar__mobile">
+    <a href="index.html" class="navbar__mobile-link">Inicio</a>
+    <a href="galeria.html" class="navbar__mobile-link">Galería</a>
+    <a href="carta.html" class="navbar__mobile-link">Carta Completa</a>
+    <a href="menus.html" class="navbar__mobile-link">Menús Especiales</a>
+    <a href="cornella.html" class="navbar__mobile-link">Cornellà</a>
+    <a href="sant-boi.html" class="navbar__mobile-link">Sant Boi</a>
+    <a href="tel:722603411" class="btn btn--primary navbar__mobile-cta">Reservar Mesa</a>
+  </div>
+
+  <!-- Page Hero -->
+  <section class="page-hero">
+    <div class="page-hero__bg" style="background-image: url('images/6.jpg');"></div>
+    <div class="page-hero__overlay"></div>
+    <div class="page-hero__content">
+      <div class="page-hero__breadcrumb">
+        <a href="index.html">Inicio</a>
+        <span>&#8250;</span>
+        <span>Carta</span>
+      </div>
+      <span class="eyebrow">La misma carta en Cornellà y Sant Boi</span>
+      <h1 class="page-hero__title">La Carta Cibum</h1>
+      <p class="page-hero__subtitle">Carnes a la brasa, paellas, tapas, desayunos y mucho más.</p>
+    </div>
+  </section>
+
+  <!-- Carta Navigation Tabs -->
+  <div class="carta-tabs">
+    <div class="carta-tabs-inner">
+      <div class="carta-nav-item active" data-carta="parrilla">Carta Parrilla</div>
+      <div class="carta-nav-item" data-carta="noche">Carta Noche</div>
+      <div class="carta-nav-item" data-carta="desayunos">Desayunos</div>
+      <div class="carta-nav-item" data-carta="menus-link">Menús Especiales</div>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <section class="section section--dark">
+    <div class="container">
+
+      <!-- Downloads Banner -->
+      <div class="featured-banner reveal">
+        <div class="featured-banner__text">
+          <h3>Descarga nuestra carta en PDF</h3>
+          <p>Tenemos todos los documentos disponibles para que puedas verlos con comodidad.</p>
+        </div>
+        <a href="https://cibumgroup.com/wp-content/uploads/2025/05/menu-parilla.pdf" target="_blank" class="btn btn--outline" style="background:rgba(255,255,255,0.1);">
+          &#128196; Descargar PDF
+        </a>
+      </div>
+
+      <!-- Carta Parrilla -->
+      <div class="carta-panel active" id="panel-parrilla">
+        <div class="section-header reveal">
+          <span class="eyebrow">Especialidad de la casa</span>
+          <div class="divider divider--left"></div>
+          <h2 class="section-title" style="text-align:left; font-size: 2rem;">Carta de Parrilla</h2>
+          <p class="section-subtitle" style="margin-left:0; margin-top:0.5rem;">Carnes seleccionadas, maduradas y cocinadas a la brasa con técnica y pasión.</p>
+        </div>
+
+        <div class="menu-section reveal">
+          <h3 class="menu-section__title">Entrantes</h3>
+          <div class="menu-items">
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Croquetas de la abuela</div>
+                <div class="menu-item__desc">Cremosas, crujientes, hechas en casa</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">8,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Patatas bravas con alioli</div>
+                <div class="menu-item__desc">Salsa picante casera, alioli suave</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">6,00€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Tabla de embutidos ibéricos</div>
+                <div class="menu-item__desc">Selección de embutidos de primera calidad con pan de payés</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">14,00€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Ensalada Cibum</div>
+                <div class="menu-item__desc">Mezcla de hojas, tomate cherry, queso de cabra y vinagreta de miel</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">9,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Pimientos de Padrón a la brasa</div>
+                <div class="menu-item__desc">Con flor de sal y aceite de oliva virgen extra</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">7,00€</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="menu-section reveal">
+          <h3 class="menu-section__title">Carnes a la Brasa</h3>
+          <p class="menu-section__subtitle">Todas nuestras carnes se sirven con guarnición a elegir</p>
+          <div class="menu-items">
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Entrecot de ternera</div>
+                <div class="menu-item__desc">300g, maduración 21 días</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">22,00€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Chuletón de vaca vieja</div>
+                <div class="menu-item__desc">Desde 600g, para 2 personas, con chimichurri casero</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">desde 38€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Tomahawk de vaca premium</div>
+                <div class="menu-item__desc">Más de 1kg, espectáculo visual y gastronómico, para 2-3 personas</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">desde 55€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Pluma ibérica</div>
+                <div class="menu-item__desc">Pieza entera de ibérico, jugosa y tierna</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">19,00€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Cachopo de ternera</div>
+                <div class="menu-item__desc">Relleno de jamón y queso fundido, rebozado crujiente</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">18,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Secreto ibérico</div>
+                <div class="menu-item__desc">Pieza entera, marcado a la brasa con pimentón de la vera</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">17,50€</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="menu-section reveal">
+          <h3 class="menu-section__title">Arroces y Paellas</h3>
+          <p class="menu-section__subtitle">Elaborados bajo pedido con los mejores ingredientes. Para 2 personas mínimo.</p>
+          <div class="menu-items">
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Paella valenciana</div>
+                <div class="menu-item__desc">La receta original con pollo y conejo, garrofa y romero</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">desde 13€/p.</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Paella de marisco</div>
+                <div class="menu-item__desc">Gambas, mejillones, calamares y almejas. Fondo casero</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">desde 15€/p.</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Arroz negro con sepia</div>
+                <div class="menu-item__desc">Con alioli de ajo negro. Imprescindible</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">desde 14€/p.</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Arroz de carne</div>
+                <div class="menu-item__desc">Con costilla de cerdo y pollo de corral, bien socarrado</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">desde 13€/p.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="menu-section reveal">
+          <h3 class="menu-section__title">Pescados</h3>
+          <div class="menu-items">
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Bacalao a la brasa</div>
+                <div class="menu-item__desc">Con pil-pil casero y pimientos del piquillo</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">19,00€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Dorada a la sal</div>
+                <div class="menu-item__desc">Entera, cocinada en sal gorda, jugosa y delicada</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">21,00€</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="menu-section reveal">
+          <h3 class="menu-section__title">Postres</h3>
+          <div class="menu-items">
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Tarta de queso al horno</div>
+                <div class="menu-item__desc">Estilo vasca, corazón cremoso, con coulis de frutos rojos</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">6,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Crema catalana</div>
+                <div class="menu-item__desc">La receta de siempre, caramelizada al momento</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">5,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Coulant de chocolate</div>
+                <div class="menu-item__desc">Con helado de vainilla y sal de Maldon</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">6,00€</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Download PDF CTA -->
+        <div class="download-grid reveal">
+          <a href="https://cibumgroup.com/wp-content/uploads/2025/05/menu-parilla.pdf" target="_blank" class="download-card">
+            <div class="download-card__icon">&#x1F969;</div>
+            <div class="download-card__title">Carta Parrilla</div>
+            <p class="download-card__desc">Toda nuestra selección de carnes, arroces y platos principales.</p>
+            <span class="download-card__badge">Descargar PDF</span>
+          </a>
+          <a href="https://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-CENAS.pdf" target="_blank" class="download-card">
+            <div class="download-card__icon">&#x1F319;</div>
+            <div class="download-card__title">Carta de Noche</div>
+            <p class="download-card__desc">Nuestra propuesta especial para las cenas de viernes y sábado.</p>
+            <span class="download-card__badge">Descargar PDF</span>
+          </a>
+          <a href="https://cibumgroup.com/wp-content/uploads/2025/05/desayunos.pdf" target="_blank" class="download-card">
+            <div class="download-card__icon">&#x2615;</div>
+            <div class="download-card__title">Carta de Desayunos</div>
+            <p class="download-card__desc">Empieza el día como mereces. Desayunos completos y variados.</p>
+            <span class="download-card__badge">Descargar PDF</span>
+          </a>
+        </div>
+
+      </div><!-- /panel-parrilla -->
+
+      <!-- Carta Noche -->
+      <div class="carta-panel" id="panel-noche">
+        <div class="section-header reveal">
+          <span class="eyebrow">Viernes y Sábados por la noche</span>
+          <div class="divider divider--left"></div>
+          <h2 class="section-title" style="text-align:left; font-size: 2rem;">Carta de Noche</h2>
+          <p class="section-subtitle" style="margin-left:0;">Una propuesta pensada para disfrutar en las noches del fin de semana.</p>
+        </div>
+
+        <div class="menu-section reveal">
+          <h3 class="menu-section__title">Para compartir</h3>
+          <div class="menu-items">
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Tabla de quesos selectos</div>
+                <div class="menu-item__desc">Selección de 5 quesos con membrillo, nueces y uvas</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">16,00€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Tabla de carnes frías y embutidos</div>
+                <div class="menu-item__desc">Jamón ibérico, lomo, chorizo y más</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">18,00€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Croquetas surtidas</div>
+                <div class="menu-item__desc">De jamón, bacalao y boletus (8 unidades)</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">10,00€</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="menu-section reveal">
+          <h3 class="menu-section__title">Platos de noche</h3>
+          <div class="menu-items">
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Tosta de foie con reducción de Oporto</div>
+                <div class="menu-item__desc">Pan brioche tostado, foie a la plancha, reducción caramelizada</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">14,00€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Entrecot al whisky</div>
+                <div class="menu-item__desc">Con patatas fritas y ensalada</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">24,00€</div>
+            </div>
+          </div>
+        </div>
+
+        <div style="text-align:center; margin-top: 2rem;" class="reveal">
+          <a href="https://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-CENAS.pdf" target="_blank" class="btn btn--gold">
+            &#128196; Descargar Carta Noche completa
+          </a>
+        </div>
+      </div><!-- /panel-noche -->
+
+      <!-- Desayunos -->
+      <div class="carta-panel" id="panel-desayunos">
+        <div class="section-header reveal">
+          <span class="eyebrow">Mañanas en Cibum</span>
+          <div class="divider divider--left"></div>
+          <h2 class="section-title" style="text-align:left; font-size: 2rem;">Desayunos</h2>
+          <p class="section-subtitle" style="margin-left:0;">Empieza el día como mereces. Disponible de lunes a domingo por la mañana.</p>
+        </div>
+
+        <div class="menu-section reveal">
+          <h3 class="menu-section__title">Desayunos</h3>
+          <div class="menu-items">
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Tostada con tomate y aceite</div>
+                <div class="menu-item__desc">Pan de payés tostado, tomate frotado, AOVE</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">3,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Tostada con jamón ibérico</div>
+                <div class="menu-item__desc">Pan artesanal, tomate, lonchas de jamón ibérico</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">6,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Bocadillo de tortilla española</div>
+                <div class="menu-item__desc">Pan baguette, tortilla recién hecha, opcional con chorizo</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">4,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Cruasán con mantequilla y mermelada</div>
+                <div class="menu-item__desc">Recién horneado</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">2,80€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Zumo de naranja natural</div>
+                <div class="menu-item__desc">Exprimido en el momento</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">2,50€</div>
+            </div>
+            <div class="menu-item">
+              <div class="menu-item__info">
+                <div class="menu-item__name">Café con leche + tostada</div>
+                <div class="menu-item__desc">El desayuno esencial</div>
+              </div>
+              <div class="menu-item__dots"></div>
+              <div class="menu-item__price">4,00€</div>
+            </div>
+          </div>
+        </div>
+
+        <div style="text-align:center; margin-top: 2rem;" class="reveal">
+          <a href="https://cibumgroup.com/wp-content/uploads/2025/05/desayunos.pdf" target="_blank" class="btn btn--gold">
+            &#128196; Descargar carta de desayunos
+          </a>
+        </div>
+      </div><!-- /panel-desayunos -->
+
+      <!-- Menús Link -->
+      <div class="carta-panel" id="panel-menus-link">
+        <div class="section-header reveal">
+          <span class="eyebrow">Menús especiales</span>
+          <div class="divider divider--left"></div>
+          <h2 class="section-title" style="text-align:left; font-size: 2rem;">Menús para todos los momentos</h2>
+          <p class="section-subtitle" style="margin-left:0;">Tenemos menús para grupos, fins de semana, festivos e infantiles. Todo disponible en Cornellà y Sant Boi.</p>
+        </div>
+        <div class="download-grid reveal">
+          <a href="menus.html#grupos" class="download-card">
+            <div class="download-card__icon">&#128101;</div>
+            <div class="download-card__title">Menús para Grupos</div>
+            <p class="download-card__desc">Desde 25€ por persona. Perfectos para celebraciones, eventos y comidas de empresa.</p>
+            <span class="download-card__badge">Ver más</span>
+          </a>
+          <a href="menus.html#finde" class="download-card">
+            <div class="download-card__icon">&#127966;</div>
+            <div class="download-card__title">Menú Fin de Semana</div>
+            <p class="download-card__desc">30€ por persona. Paella, brasa y botella de vino para dos. Perfecto para el fin de semana.</p>
+            <span class="download-card__badge">Ver más</span>
+          </a>
+          <a href="menus.html#infantil" class="download-card">
+            <div class="download-card__icon">&#127828;</div>
+            <div class="download-card__title">Menú Infantil</div>
+            <p class="download-card__desc">11,50€ por persona. Pensado para los más pequeños de la casa (máximo 12 años).</p>
+            <span class="download-card__badge">Ver más</span>
+          </a>
+        </div>
+        <div style="text-align:center; margin-top: 1rem;" class="reveal">
+          <a href="menus.html" class="btn btn--primary">Ver todos los menús</a>
+        </div>
+      </div><!-- /panel-menus-link -->
+
+    </div>
+  </section>
+
+  <!-- CTA Banner -->
+  <div class="cta-banner">
+    <div class="cta-banner__bg" style="background-image: url('images/50.jpg');"></div>
+    <div class="cta-banner__overlay"></div>
+    <div class="cta-banner__content reveal">
+      <span class="eyebrow">Reserva tu mesa</span>
+      <div class="divider"></div>
+      <h2 class="cta-banner__title">¿Tienes ganas de comer bien?</h2>
+      <p class="cta-banner__text">Llámanos y te buscamos el hueco. En Cibum siempre hay sitio para quien viene con ganas.</p>
+      <div class="cta-banner__actions">
+        <a href="tel:722603411" class="btn btn--primary">&#128222; Cornellà: 722 60 34 11</a>
+        <a href="tel:631333891" class="btn btn--outline">&#128222; Sant Boi: 631 33 38 91</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <img src="images/cibum-logo-1.png" alt="CIBUM Group" class="footer__logo">
+          <p class="footer__tagline">El placer de compartir una buena mesa, una buena brasa y un buen momento.</p>
+          <div class="footer__social">
+            <a href="https://www.instagram.com/cibumgroup/" target="_blank" class="footer__social-link" aria-label="Instagram">&#x1F4F7;</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer__col-title">Navegación</div>
+          <ul class="footer__links">
+            <li><a href="index.html" class="footer__link">Inicio</a></li>
+            <li><a href="galeria.html" class="footer__link">Galería</a></li>
+            <li><a href="carta.html" class="footer__link">Carta Cibum</a></li>
+            <li><a href="menus.html" class="footer__link">Menús Especiales</a></li>
+            <li><a href="cornella.html" class="footer__link">Cornellà</a></li>
+            <li><a href="sant-boi.html" class="footer__link">Sant Boi</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer__col-title">Menús</div>
+          <ul class="footer__links">
+            <li><a href="menus.html" class="footer__link">Menú del Día</a></li>
+            <li><a href="menus.html#finde" class="footer__link">Menú Fin de Semana</a></li>
+            <li><a href="menus.html#festivos" class="footer__link">Menú Festivos</a></li>
+            <li><a href="menus.html#grupos" class="footer__link">Menú Grupos</a></li>
+            <li><a href="menus.html#infantil" class="footer__link">Menú Infantil</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer__col-title">Contacto</div>
+          <div class="footer__contact-item">
+            <span class="footer__contact-icon">&#128205;</span>
+            <div class="footer__contact-text">
+              <strong style="color: rgba(255,255,255,0.75);">Cornellà de Llobregat</strong>
+              <a href="tel:722603411">722 60 34 11</a><br>
+              L-D 12:00-17:00 | V-S hasta 1:30am
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <span class="footer__contact-icon">&#128205;</span>
+            <div class="footer__contact-text">
+              <strong style="color: rgba(255,255,255,0.75);">Sant Boi de Llobregat</strong>
+              <a href="tel:631333891">631 33 38 91</a><br>
+              Próximamente — Junio 2025
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p class="footer__copyright">&copy; 2025 CIBUM Group Restaurant. Todos los derechos reservados.</p>
+        <div class="footer__legal">
+          <a href="politica-cookies.html" class="footer__legal-link">Política de Cookies</a>
+          <a href="politica-privacidad.html" class="footer__legal-link">Política de Privacidad</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating CTA -->
+  <div class="floating-cta">
+    <a href="tel:722603411" class="floating-cta__btn">&#128222; <span>Reservar</span></a>
+  </div>
+
+  <!-- Cookie Banner -->
+  <div class="cookie-banner" style="display:none;">
+    <p class="cookie-banner__text">Utilizamos cookies para ofrecerte la mejor experiencia. <a href="politica-cookies.html">Más información</a></p>
+    <div class="cookie-banner__actions">
+      <button class="btn btn--outline cookie-reject" style="padding: 0.6rem 1.2rem; font-size: 0.75rem;">Rechazar</button>
+      <button class="btn btn--primary cookie-accept" style="padding: 0.6rem 1.2rem; font-size: 0.75rem;">Aceptar</button>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script>
+    // Carta tabs
+    const cartaNavItems = document.querySelectorAll('.carta-nav-item');
+    const cartaPanels = document.querySelectorAll('.carta-panel');
+
+    cartaNavItems.forEach(item => {
+      item.addEventListener('click', () => {
+        const target = item.dataset.carta;
+        cartaNavItems.forEach(n => n.classList.remove('active'));
+        item.classList.add('active');
+        cartaPanels.forEach(p => {
+          p.classList.toggle('active', p.id === `panel-${target}`);
+        });
+        window.scrollTo({ top: document.querySelector('.carta-tabs').offsetTop - 80, behavior: 'smooth' });
+      });
+    });
+  </script>
+</body>
+</html>

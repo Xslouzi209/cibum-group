@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CIBUM Sant Boi | Próximamente en Sant Boi de Llobregat</title>
+  <meta name="description" content="Cibum abre en Sant Boi de Llobregat en junio 2025. A 2 minutos de la playa. Restaurante especialista en carnes premium, paellas y tapas. Tel: 631 33 38 91.">
+  <link rel="icon" href="images/icono-1-150x150.png" type="image/png">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* Coming Soon Hero */
+    .hero-santboi {
+      position: relative;
+      height: 100vh;
+      min-height: 600px;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+    }
+    .hero-santboi__bg {
+      position: absolute;
+      inset: 0;
+      background-image: url('images/7-1.jpg');
+      background-size: cover;
+      background-position: center;
+      filter: brightness(0.6);
+      transform: scale(1.05);
+    }
+    .hero-santboi__overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        135deg,
+        rgba(13,13,13,0.85) 0%,
+        rgba(13,13,13,0.60) 50%,
+        rgba(140,28,48,0.30) 100%
+      );
+    }
+    .hero-santboi__content {
+      position: relative;
+      z-index: 2;
+      width: 100%;
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      padding-top: var(--nav-height);
+    }
+
+    /* Countdown */
+    .countdown {
+      display: flex;
+      gap: 1.5rem;
+      margin: 2rem 0;
+      flex-wrap: wrap;
+    }
+    .countdown-block {
+      text-align: center;
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 4px;
+      padding: 1.25rem 1.75rem;
+      min-width: 90px;
+    }
+    .countdown-block__num {
+      font-family: var(--font-display);
+      font-size: 2.5rem;
+      font-weight: 600;
+      color: var(--color-gold);
+      line-height: 1;
+    }
+    .countdown-block__label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.5);
+      margin-top: 0.4rem;
+    }
+
+    /* Timeline / coming-soon steps */
+    .timeline {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+    .timeline-item {
+      display: flex;
+      gap: 1.5rem;
+      padding-bottom: 2rem;
+      position: relative;
+    }
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: 18px;
+      top: 40px;
+      bottom: 0;
+      width: 1px;
+      background: rgba(196,154,61,0.2);
+    }
+    .timeline-item:last-child::before { display: none; }
+    .timeline-item:last-child { padding-bottom: 0; }
+    .timeline-item__dot {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      background: var(--color-dark-2);
+      border: 2px solid var(--color-gold);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9rem;
+      color: var(--color-gold);
+      flex-shrink: 0;
+    }
+    .timeline-item__dot--done {
+      background: rgba(196,154,61,0.2);
+    }
+    .timeline-item__content {}
+    .timeline-item__date {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--color-gold);
+      margin-bottom: 0.3rem;
+    }
+    .timeline-item__title {
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      color: var(--color-white);
+      margin-bottom: 0.3rem;
+    }
+    .timeline-item__text {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.5);
+    }
+
+    /* Info preview */
+    .preview-info {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+    .preview-card {
+      background: var(--color-dark-2);
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 4px;
+      padding: 2rem;
+      transition: border-color 0.3s;
+    }
+    .preview-card:hover {
+      border-color: rgba(196,154,61,0.25);
+    }
+    .preview-card__icon {
+      font-size: 2rem;
+      color: var(--color-gold);
+      margin-bottom: 1rem;
+    }
+    .preview-card__title {
+      font-family: var(--font-display);
+      font-size: 1.1rem;
+      color: var(--color-white);
+      margin-bottom: 0.5rem;
+    }
+    .preview-card__text {
+      font-size: 0.875rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.7;
+    }
+
+    /* Notification form */
+    .notify-form {
+      display: flex;
+      gap: 0.75rem;
+      max-width: 480px;
+      margin: 0 auto;
+    }
+    .notify-input {
+      flex: 1;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.15);
+      color: white;
+      padding: 0.85rem 1.25rem;
+      font-size: 0.875rem;
+      border-radius: 2px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .notify-input::placeholder { color: rgba(255,255,255,0.35); }
+    .notify-input:focus { border-color: var(--color-gold); }
+
+    @media (max-width: 768px) {
+      .preview-info { grid-template-columns: 1fr; }
+      .countdown { gap: 0.75rem; }
+      .countdown-block { padding: 1rem 1.25rem; min-width: 70px; }
+      .countdown-block__num { font-size: 2rem; }
+      .notify-form { flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Page Loader -->
+  <div class="page-loader">
+    <img src="images/cibum-logo-1.png" alt="Cibum" class="page-loader__logo">
+    <div class="page-loader__bar"></div>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="navbar__inner">
+      <a href="index.html" class="navbar__logo">
+        <img src="images/cibum-logo-1.png" alt="CIBUM Group">
+      </a>
+      <div class="navbar__links">
+        <a href="index.html" class="navbar__link">Inicio</a>
+        <a href="galeria.html" class="navbar__link">Galería</a>
+        <div class="navbar__dropdown">
+          <a href="carta.html" class="navbar__link">Carta &#9662;</a>
+          <div class="navbar__dropdown-menu">
+            <a href="carta.html" class="navbar__dropdown-item">Carta Completa</a>
+            <a href="menus.html" class="navbar__dropdown-item">Menús para Grupos</a>
+            <a href="menus.html#finde" class="navbar__dropdown-item">Menú Fin de Semana</a>
+            <a href="menus.html#infantil" class="navbar__dropdown-item">Menú Infantil</a>
+          </div>
+        </div>
+        <div class="navbar__dropdown">
+          <a href="cornella.html" class="navbar__link active">Restaurantes &#9662;</a>
+          <div class="navbar__dropdown-menu">
+            <a href="cornella.html" class="navbar__dropdown-item">Cornellà</a>
+            <a href="sant-boi.html" class="navbar__dropdown-item">Sant Boi</a>
+          </div>
+        </div>
+      </div>
+      <a href="tel:722603411" class="btn btn--primary navbar__cta">Reservar</a>
+      <button class="navbar__hamburger" aria-label="Menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mobile Menu -->
+  <div class="navbar__mobile">
+    <a href="index.html" class="navbar__mobile-link">Inicio</a>
+    <a href="galeria.html" class="navbar__mobile-link">Galería</a>
+    <a href="carta.html" class="navbar__mobile-link">Carta Completa</a>
+    <a href="menus.html" class="navbar__mobile-link">Menús Especiales</a>
+    <a href="cornella.html" class="navbar__mobile-link">Cornellà</a>
+    <a href="sant-boi.html" class="navbar__mobile-link">Sant Boi</a>
+    <a href="tel:631333891" class="btn btn--primary navbar__mobile-cta">&#128222; Sant Boi</a>
+  </div>
+
+  <!-- Hero -->
+  <section class="hero-santboi">
+    <div class="hero-santboi__bg"></div>
+    <div class="hero-santboi__overlay"></div>
+    <div class="hero-santboi__content">
+      <span class="badge-soon" style="margin-bottom: 1.5rem; display: inline-block;">Apertura Junio 2025</span>
+      <div class="hero__eyebrow" style="margin-bottom: 1rem;">
+        <span class="eyebrow">Sant Boi de Llobregat — A 2 minutos de la playa</span>
+      </div>
+      <h1 class="hero__title">
+        CIBUM llega<br><em>a Sant Boi</em>
+      </h1>
+      <p class="hero__subtitle">
+        El placer de compartir ahora también en Sant Boi. Las mismas carnes premium a la brasa, las mismas paellas espectaculares y el mismo ambiente que ha enamorado a Cornellà.
+      </p>
+
+      <!-- Countdown -->
+      <div class="countdown" id="countdown">
+        <div class="countdown-block">
+          <div class="countdown-block__num" id="cd-days">--</div>
+          <div class="countdown-block__label">Días</div>
+        </div>
+        <div class="countdown-block">
+          <div class="countdown-block__num" id="cd-hours">--</div>
+          <div class="countdown-block__label">Horas</div>
+        </div>
+        <div class="countdown-block">
+          <div class="countdown-block__num" id="cd-min">--</div>
+          <div class="countdown-block__label">Min</div>
+        </div>
+        <div class="countdown-block">
+          <div class="countdown-block__num" id="cd-sec">--</div>
+          <div class="countdown-block__label">Seg</div>
+        </div>
+      </div>
+
+      <div class="hero__actions">
+        <a href="tel:631333891" class="btn btn--primary">&#128222; 631 33 38 91</a>
+        <a href="cornella.html" class="btn btn--outline">Visita Cibum Cornellà</a>
+      </div>
+    </div>
+    <div class="hero__scroll">
+      <div class="hero__scroll-line"></div>
+      <span>Scroll</span>
+    </div>
+  </section>
+
+  <!-- Coming Soon Info -->
+  <section style="background: var(--color-dark-2); padding: 4rem 0;">
+    <div class="container">
+      <div class="two-col">
+        <div class="two-col__content reveal">
+          <span class="eyebrow">Lo que viene</span>
+          <div class="divider divider--left"></div>
+          <h2 class="section-title" style="text-align:left; font-size: 2.2rem;">Próximamente también<br>en Sant Boi</h2>
+          <p class="two-col__text">
+            En nada abrimos las puertas de un nuevo CIBUM en Sant Boi de Llobregat. Mismo producto, misma calidad, misma pasión — a 2 minutos de la playa.
+          </p>
+          <p class="two-col__text" style="margin-top: 0.75rem;">
+            Si quieres ser de los primeros en saberlo todo, llámanos o síguenos en Instagram <a href="https://www.instagram.com/cibumgroup/" target="_blank" style="color: var(--color-gold);">@cibumgroup</a>.
+          </p>
+          <div class="two-col__actions">
+            <a href="https://www.instagram.com/cibumgroup/" target="_blank" class="btn btn--gold">Seguir en Instagram</a>
+            <a href="tel:631333891" class="btn btn--outline">&#128222; 631 33 38 91</a>
+          </div>
+        </div>
+        <div style="padding: 2rem 0;" class="reveal reveal-delay-2">
+          <div class="timeline">
+            <div class="timeline-item">
+              <div class="timeline-item__dot timeline-item__dot--done">✓</div>
+              <div class="timeline-item__content">
+                <div class="timeline-item__date">Completado</div>
+                <div class="timeline-item__title">Selección del local</div>
+                <div class="timeline-item__text">Un espacio único a 2 minutos de la playa de Sant Boi, seleccionado con mimo.</div>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-item__dot timeline-item__dot--done">✓</div>
+              <div class="timeline-item__content">
+                <div class="timeline-item__date">En progreso</div>
+                <div class="timeline-item__title">Obras e interiorismo</div>
+                <div class="timeline-item__text">El mismo estilo inconfundible de Cibum: materiales nobles, luz cálida, ambiente acogedor.</div>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-item__dot">&#x1F525;</div>
+              <div class="timeline-item__content">
+                <div class="timeline-item__date">Junio 2025</div>
+                <div class="timeline-item__title">Apertura oficial</div>
+                <div class="timeline-item__text">Abrimos las puertas de Cibum Sant Boi. La misma experiencia, nueva localización.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What to expect -->
+  <section class="section section--dark">
+    <div class="container">
+      <div class="section-header section-header--center reveal">
+        <span class="eyebrow">Qué encontrarás en Cibum Sant Boi</span>
+        <div class="divider"></div>
+        <h2 class="section-title">Lo mejor de Cibum, junto al mar</h2>
+        <p class="section-subtitle">Todo lo que ya conoces de Cornellà, ahora disponible también en Sant Boi. La misma carta, la misma pasión.</p>
+      </div>
+
+      <div class="preview-info reveal">
+        <div class="preview-card">
+          <div class="preview-card__icon">&#128336;</div>
+          <div class="preview-card__title">Horario previsto</div>
+          <p class="preview-card__text">
+            <strong style="color:rgba(255,255,255,0.75);">Lunes a Domingo</strong><br>
+            8:00 — 23:00<br><br>
+            Abierto prácticamente todo el día para que puedas disfrutar de Cibum cuando quieras.
+          </p>
+        </div>
+        <div class="preview-card">
+          <div class="preview-card__icon">&#127754;</div>
+          <div class="preview-card__title">A 2 minutos de la playa</div>
+          <p class="preview-card__text">
+            Ubicación privilegiada en Sant Boi de Llobregat, a muy pocos pasos de la playa. Una experiencia gastronómica junto al mar.
+          </p>
+        </div>
+        <div class="preview-card">
+          <div class="preview-card__icon">&#128222;</div>
+          <div class="preview-card__title">Teléfono</div>
+          <p class="preview-card__text">
+            <a href="tel:631333891" style="font-size: 1.3rem; font-family: var(--font-display); color: var(--color-gold);">631 33 38 91</a><br><br>
+            Puedes llamarnos para cualquier consulta o reservar a partir de la apertura.
+          </p>
+        </div>
+        <div class="preview-card">
+          <div class="preview-card__icon">&#x1F969;</div>
+          <div class="preview-card__title">La misma carta</div>
+          <p class="preview-card__text">
+            Carnes premium a la brasa, paellas al momento, tapas, menú del día, menús de grupo... Todo disponible en Sant Boi.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Image gallery of the area / preview -->
+  <div class="image-strip" style="height: 350px;">
+    <div class="image-strip__item"><img src="images/73.jpg" alt="Cibum Sant Boi"></div>
+    <div class="image-strip__item"><img src="images/76.jpg" alt="Cibum Sant Boi"></div>
+    <div class="image-strip__item"><img src="images/7.jpg" alt="Cibum"></div>
+    <div class="image-strip__item"><img src="images/10-1.jpg" alt="Cibum"></div>
+    <div class="image-strip__item"><img src="images/13-1.jpg" alt="Cibum"></div>
+  </div>
+
+  <!-- Notify CTA -->
+  <section class="section section--dark2">
+    <div class="container">
+      <div class="section-header section-header--center reveal">
+        <span class="eyebrow">No te pierdas la apertura</span>
+        <div class="divider"></div>
+        <h2 class="section-title">Sé el primero en enterarte</h2>
+        <p class="section-subtitle">Síguenos en Instagram para estar al día de todas las novedades de Cibum Sant Boi.</p>
+      </div>
+      <div style="text-align: center;" class="reveal">
+        <a href="https://www.instagram.com/cibumgroup/" target="_blank" class="btn btn--gold" style="font-size: 0.9rem; padding: 1rem 2.5rem;">
+          &#128247; Seguir @cibumgroup en Instagram
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cornellà CTA -->
+  <div class="cta-banner">
+    <div class="cta-banner__bg" style="background-image: url('images/36.jpg');"></div>
+    <div class="cta-banner__overlay"></div>
+    <div class="cta-banner__content reveal">
+      <span class="eyebrow">Mientras tanto</span>
+      <div class="divider"></div>
+      <h2 class="cta-banner__title">¿No puedes esperar? Visítanos en Cornellà</h2>
+      <p class="cta-banner__text">Cibum Cornellà está abierto cada día. La misma experiencia, el mismo producto y la misma pasión. Te esperamos.</p>
+      <div class="cta-banner__actions">
+        <a href="cornella.html" class="btn btn--primary">Ver Cibum Cornellà</a>
+        <a href="tel:722603411" class="btn btn--outline">&#128222; 722 60 34 11</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <img src="images/cibum-logo-1.png" alt="CIBUM Group" class="footer__logo">
+          <p class="footer__tagline">El placer de compartir una buena mesa, una buena brasa y un buen momento.</p>
+          <div class="footer__social">
+            <a href="https://www.instagram.com/cibumgroup/" target="_blank" class="footer__social-link" aria-label="Instagram">&#x1F4F7;</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer__col-title">Navegación</div>
+          <ul class="footer__links">
+            <li><a href="index.html" class="footer__link">Inicio</a></li>
+            <li><a href="galeria.html" class="footer__link">Galería</a></li>
+            <li><a href="carta.html" class="footer__link">Carta Cibum</a></li>
+            <li><a href="menus.html" class="footer__link">Menús Especiales</a></li>
+            <li><a href="cornella.html" class="footer__link">Cornellà</a></li>
+            <li><a href="sant-boi.html" class="footer__link">Sant Boi</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer__col-title">Menús</div>
+          <ul class="footer__links">
+            <li><a href="menus.html" class="footer__link">Menú del Día</a></li>
+            <li><a href="menus.html#finde" class="footer__link">Menú Fin de Semana</a></li>
+            <li><a href="menus.html#festivos" class="footer__link">Menú Festivos</a></li>
+            <li><a href="menus.html#grupos" class="footer__link">Menú Grupos</a></li>
+            <li><a href="menus.html#infantil" class="footer__link">Menú Infantil</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer__col-title">Contacto</div>
+          <div class="footer__contact-item">
+            <span class="footer__contact-icon">&#128205;</span>
+            <div class="footer__contact-text">
+              <strong style="color: rgba(255,255,255,0.75);">Cornellà de Llobregat</strong>
+              <a href="tel:722603411">722 60 34 11</a><br>
+              L-D 12:00-17:00 | V-S hasta 1:30am
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <span class="footer__contact-icon">&#128205;</span>
+            <div class="footer__contact-text">
+              <strong style="color: rgba(255,255,255,0.75);">Sant Boi — Abrimos en Junio 2025</strong>
+              <a href="tel:631333891">631 33 38 91</a><br>
+              L-D 8:00-23:00 · A 2' de la playa
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p class="footer__copyright">&copy; 2025 CIBUM Group Restaurant. Todos los derechos reservados.</p>
+        <div class="footer__legal">
+          <a href="politica-cookies.html" class="footer__legal-link">Política de Cookies</a>
+          <a href="politica-privacidad.html" class="footer__legal-link">Política de Privacidad</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating CTA -->
+  <div class="floating-cta">
+    <a href="tel:631333891" class="floating-cta__btn">&#128222; <span>631 33 38 91</span></a>
+  </div>
+
+  <!-- Cookie Banner -->
+  <div class="cookie-banner" style="display:none;">
+    <p class="cookie-banner__text">Utilizamos cookies para ofrecerte la mejor experiencia. <a href="politica-cookies.html">Más información</a></p>
+    <div class="cookie-banner__actions">
+      <button class="btn btn--outline cookie-reject" style="padding: 0.6rem 1.2rem; font-size: 0.75rem;">Rechazar</button>
+      <button class="btn btn--primary cookie-accept" style="padding: 0.6rem 1.2rem; font-size: 0.75rem;">Aceptar</button>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script>
+    // Countdown to June 1, 2025
+    const target = new Date('2025-06-01T00:00:00').getTime();
+
+    function updateCountdown() {
+      const now = new Date().getTime();
+      const diff = target - now;
+
+      if (diff <= 0) {
+        document.getElementById('countdown').innerHTML = '<div style="font-family:var(--font-display); font-size:1.5rem; color:var(--color-gold);">&#127881; Ya estamos abiertos en Sant Boi</div>';
+        return;
+      }
+
+      const days  = Math.floor(diff / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const mins  = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      const secs  = Math.floor((diff % (1000 * 60)) / 1000);
+
+      document.getElementById('cd-days').textContent  = String(days).padStart(2, '0');
+      document.getElementById('cd-hours').textContent = String(hours).padStart(2, '0');
+      document.getElementById('cd-min').textContent   = String(mins).padStart(2, '0');
+      document.getElementById('cd-sec').textContent   = String(secs).padStart(2, '0');
+    }
+
+    updateCountdown();
+    setInterval(updateCountdown, 1000);
+  </script>
+</body>
+</html>

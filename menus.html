@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menús Especiales CIBUM | Grupos, Finde, Festivos e Infantil</title>
+  <meta name="description" content="Menús especiales para grupos, fin de semana, festivos e infantiles en Cibum Cornellà y Sant Boi. Desde 11,50€ por persona.">
+  <link rel="icon" href="images/icono-1-150x150.png" type="image/png">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* Price Tag */
+    .price-tag {
+      display: flex;
+      align-items: baseline;
+      gap: 0.2rem;
+      margin: 1.25rem 0;
+    }
+    .price-tag__from {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.4);
+      margin-right: 0.15rem;
+    }
+    .price-tag__amount {
+      font-family: var(--font-display);
+      font-size: 3.5rem;
+      font-weight: 600;
+      color: var(--color-gold);
+      line-height: 1;
+    }
+    .price-tag__unit {
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.45);
+    }
+
+    /* Menu Section */
+    .menu-section-block {
+      padding: 80px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+    .menu-section-block:last-child { border-bottom: none; }
+
+    /* Feature list */
+    .feature-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.7rem;
+      margin: 1.5rem 0 2rem;
+    }
+    .feature-item {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.7);
+    }
+    .feature-item__check {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: rgba(196,154,61,0.15);
+      border: 1px solid rgba(196,154,61,0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.65rem;
+      color: var(--color-gold);
+      flex-shrink: 0;
+    }
+
+    /* Menu image card */
+    .menu-image-card {
+      position: relative;
+      border-radius: 4px;
+      overflow: hidden;
+      height: 100%;
+      min-height: 420px;
+    }
+    .menu-image-card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .menu-image-card__badge {
+      position: absolute;
+      top: 1.5rem;
+      left: 1.5rem;
+      background: var(--color-brand);
+      color: white;
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 0.4rem 1rem;
+      border-radius: 2rem;
+    }
+
+    /* Quick nav */
+    .menus-quicknav {
+      position: sticky;
+      top: var(--nav-height);
+      z-index: 100;
+      background: var(--color-dark-2);
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+    .menus-quicknav-inner {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      display: flex;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .menus-quicknav-inner::-webkit-scrollbar { display: none; }
+    .menus-qn-item {
+      flex-shrink: 0;
+      padding: 1.25rem 1.5rem;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.45);
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      white-space: nowrap;
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .menus-qn-item:hover {
+      color: var(--color-gold);
+      border-bottom-color: var(--color-gold);
+    }
+
+    /* Comparison table */
+    .menu-compare-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+    }
+    .menu-compare-card {
+      background: var(--color-dark-2);
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 4px;
+      overflow: hidden;
+      transition: border-color 0.3s, transform 0.3s;
+    }
+    .menu-compare-card:hover {
+      border-color: rgba(196,154,61,0.3);
+      transform: translateY(-6px);
+    }
+    .menu-compare-card--featured {
+      border-color: var(--color-gold);
+      position: relative;
+    }
+    .menu-compare-card--featured::before {
+      content: 'MÁS POPULAR';
+      position: absolute;
+      top: -1px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--color-gold);
+      color: var(--color-black);
+      font-size: 0.62rem;
+      font-weight: 800;
+      letter-spacing: 0.2em;
+      padding: 0.3rem 1rem;
+      border-radius: 0 0 4px 4px;
+    }
+    .menu-compare-card__head {
+      padding: 2rem;
+      text-align: center;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+    .menu-compare-card__name {
+      font-family: var(--font-display);
+      font-size: 1.3rem;
+      color: var(--color-white);
+      margin-bottom: 0.25rem;
+    }
+    .menu-compare-card__subtitle {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.4);
+      margin-bottom: 1rem;
+    }
+    .menu-compare-card__price {
+      font-family: var(--font-display);
+      font-size: 2.8rem;
+      font-weight: 600;
+      color: var(--color-gold);
+      line-height: 1;
+    }
+    .menu-compare-card__price-unit {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.4);
+    }
+    .menu-compare-card__body {
+      padding: 1.5rem 2rem;
+    }
+    .menu-compare-card__feature {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.5rem 0;
+      font-size: 0.855rem;
+      color: rgba(255,255,255,0.65);
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+    }
+    .menu-compare-card__feature:last-child { border-bottom: none; }
+    .menu-compare-card__feature span:first-child {
+      color: var(--color-gold);
+    }
+    .menu-compare-card__footer {
+      padding: 0 2rem 2rem;
+    }
+    .menu-compare-card__footer .btn {
+      width: 100%;
+      justify-content: center;
+    }
+
+    @media (max-width: 768px) {
+      .menu-compare-grid { grid-template-columns: 1fr; }
+    }
+    @media (min-width: 769px) and (max-width: 992px) {
+      .menu-compare-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Page Loader -->
+  <div class="page-loader">
+    <img src="images/cibum-logo-1.png" alt="Cibum" class="page-loader__logo">
+    <div class="page-loader__bar"></div>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="navbar__inner">
+      <a href="index.html" class="navbar__logo">
+        <img src="images/cibum-logo-1.png" alt="CIBUM Group">
+      </a>
+      <div class="navbar__links">
+        <a href="index.html" class="navbar__link">Inicio</a>
+        <a href="galeria.html" class="navbar__link">Galería</a>
+        <div class="navbar__dropdown">
+          <a href="carta.html" class="navbar__link active">Carta &#9662;</a>
+          <div class="navbar__dropdown-menu">
+            <a href="carta.html" class="navbar__dropdown-item">Carta Completa</a>
+            <a href="menus.html" class="navbar__dropdown-item">Menús para Grupos</a>
+            <a href="menus.html#finde" class="navbar__dropdown-item">Menú Fin de Semana</a>
+            <a href="menus.html#infantil" class="navbar__dropdown-item">Menú Infantil</a>
+          </div>
+        </div>
+        <div class="navbar__dropdown">
+          <a href="cornella.html" class="navbar__link">Restaurantes &#9662;</a>
+          <div class="navbar__dropdown-menu">
+            <a href="cornella.html" class="navbar__dropdown-item">Cornellà</a>
+            <a href="sant-boi.html" class="navbar__dropdown-item">Sant Boi</a>
+          </div>
+        </div>
+      </div>
+      <a href="tel:722603411" class="btn btn--primary navbar__cta">Reservar</a>
+      <button class="navbar__hamburger" aria-label="Menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mobile Menu -->
+  <div class="navbar__mobile">
+    <a href="index.html" class="navbar__mobile-link">Inicio</a>
+    <a href="galeria.html" class="navbar__mobile-link">Galería</a>
+    <a href="carta.html" class="navbar__mobile-link">Carta Completa</a>
+    <a href="menus.html" class="navbar__mobile-link">Menús Especiales</a>
+    <a href="cornella.html" class="navbar__mobile-link">Cornellà</a>
+    <a href="sant-boi.html" class="navbar__mobile-link">Sant Boi</a>
+    <a href="tel:722603411" class="btn btn--primary navbar__mobile-cta">Reservar Mesa</a>
+  </div>
+
+  <!-- Page Hero -->
+  <section class="page-hero">
+    <div class="page-hero__bg" style="background-image: url('images/11.jpg');"></div>
+    <div class="page-hero__overlay"></div>
+    <div class="page-hero__content">
+      <div class="page-hero__breadcrumb">
+        <a href="index.html">Inicio</a>
+        <span>&#8250;</span>
+        <span>Menús Especiales</span>
+      </div>
+      <span class="eyebrow">Para cada momento y ocasión</span>
+      <h1 class="page-hero__title">Menús Especiales</h1>
+      <p class="page-hero__subtitle">Grupos, fin de semana, festivos e infantiles. La experiencia Cibum adaptada a lo que necesitas.</p>
+    </div>
+  </section>
+
+  <!-- Quick Navigation -->
+  <div class="menus-quicknav">
+    <div class="menus-quicknav-inner">
+      <a href="#grupos" class="menus-qn-item">Menú Grupos</a>
+      <a href="#premium" class="menus-qn-item">Menú Premium</a>
+      <a href="#finde" class="menus-qn-item">Fin de Semana</a>
+      <a href="#festivos" class="menus-qn-item">Festivos</a>
+      <a href="#infantil" class="menus-qn-item">Infantil</a>
+    </div>
+  </div>
+
+  <!-- Intro -->
+  <section class="section section--dark" style="padding-bottom: 0;">
+    <div class="container">
+      <div class="section-header section-header--center reveal">
+        <span class="eyebrow">Cibum Cornellà &amp; Sant Boi</span>
+        <div class="divider"></div>
+        <h2 class="section-title">Todos nuestros menús</h2>
+        <p class="section-subtitle">Hay opciones para grupos grandes o pequeños, fin de semana, festivos e infantiles. Contáctanos y organizamos todo por ti.</p>
+      </div>
+
+      <!-- Comparison Cards -->
+      <div class="menu-compare-grid reveal">
+
+        <div class="menu-compare-card">
+          <div class="menu-compare-card__head">
+            <div class="menu-compare-card__name">Menú del Día</div>
+            <div class="menu-compare-card__subtitle">De lunes a viernes</div>
+            <div class="menu-compare-card__price">15,90€</div>
+            <div class="menu-compare-card__price-unit">por persona</div>
+          </div>
+          <div class="menu-compare-card__body">
+            <div class="menu-compare-card__feature"><span>✓</span> +10 opciones de primero</div>
+            <div class="menu-compare-card__feature"><span>✓</span> +20 opciones de segundo</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Pan y bebida incluidos</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Postre del día</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Café incluido</div>
+          </div>
+          <div class="menu-compare-card__footer">
+            <a href="tel:722603411" class="btn btn--outline">Reservar</a>
+          </div>
+        </div>
+
+        <div class="menu-compare-card menu-compare-card--featured">
+          <div class="menu-compare-card__head">
+            <div class="menu-compare-card__name">Menú Fin de Semana</div>
+            <div class="menu-compare-card__subtitle">Sábados al mediodía</div>
+            <div class="menu-compare-card__price">30€</div>
+            <div class="menu-compare-card__price-unit">por persona</div>
+          </div>
+          <div class="menu-compare-card__body">
+            <div class="menu-compare-card__feature"><span>✓</span> 1 primero a elegir</div>
+            <div class="menu-compare-card__feature"><span>✓</span> 1 segundo (paella o brasa)</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Botella de vino para dos</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Postre incluido</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Café y chupito</div>
+          </div>
+          <div class="menu-compare-card__footer">
+            <a href="tel:722603411" class="btn btn--gold">Reservar</a>
+          </div>
+        </div>
+
+        <div class="menu-compare-card">
+          <div class="menu-compare-card__head">
+            <div class="menu-compare-card__name">Menú Festivos</div>
+            <div class="menu-compare-card__subtitle">Días festivos nacionales</div>
+            <div class="menu-compare-card__price">35€</div>
+            <div class="menu-compare-card__price-unit">por persona</div>
+          </div>
+          <div class="menu-compare-card__body">
+            <div class="menu-compare-card__feature"><span>✓</span> 1 primero a elegir</div>
+            <div class="menu-compare-card__feature"><span>✓</span> 1 segundo (paella o brasa)</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Botella de vino para dos</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Postre incluido</div>
+            <div class="menu-compare-card__feature"><span>✓</span> Café y chupito</div>
+          </div>
+          <div class="menu-compare-card__footer">
+            <a href="tel:722603411" class="btn btn--outline">Reservar</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Menú Grupos -->
+  <section class="section--dark" id="grupos">
+    <div class="container">
+      <div class="menu-section-block">
+        <div class="two-col">
+          <div class="two-col__image reveal">
+            <img src="images/58.jpg" alt="Menú grupos Cibum" style="height: 460px; object-fit: cover; border-radius: 4px; width: 100%;">
+          </div>
+          <div class="two-col__content reveal reveal-delay-2">
+            <span class="eyebrow">Para grupos desde 15 personas</span>
+            <div class="divider divider--left"></div>
+            <h2 class="section-title" style="text-align:left;">Menú para Grupos</h2>
+            <p class="two-col__text">
+              Desde cumpleaños hasta comidas de empresa. Tenemos varias opciones de menú para grupos que se adaptan a cualquier ocasión y número de comensales.
+            </p>
+
+            <div class="feature-list">
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Aperitivos de primera
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Entrecot, bacalao, cabrito, pluma ibérica...
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Mínimo 15 personas
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Disponible cualquier día
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Organización personalizada sin coste extra
+              </div>
+            </div>
+
+            <div class="price-tag">
+              <span class="price-tag__from">desde</span>
+              <span class="price-tag__amount">30€</span>
+              <span class="price-tag__unit">/ persona</span>
+            </div>
+
+            <div class="two-col__actions">
+              <a href="tel:722603411" class="btn btn--primary">&#128222; Llamar y reservar</a>
+              <a href="https://cibumgroup.com/wp-content/uploads/2025/05/MENU-GRUPO-FIN-DE-SEMANA-MEDIODIA.pdf" target="_blank" class="btn btn--outline">Ver menú PDF</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Menú Premium -->
+  <section class="section--dark2" id="premium">
+    <div class="container">
+      <div class="menu-section-block">
+        <div class="two-col two-col--reverse">
+          <div class="two-col__content reveal">
+            <span class="eyebrow">Alto nivel</span>
+            <div class="divider divider--left"></div>
+            <h2 class="section-title" style="text-align:left;">Menú Premium</h2>
+            <p class="two-col__text">
+              Carnes premium de alto nivel. Para los que quieren lo mejor. Entrecot, chuletón, tomahawk, cachopos y mucho más.
+            </p>
+            <p class="two-col__text" style="margin-top: 0.75rem;">
+              Máximo 10 personas para poder garantizar la mejor experiencia en cada detalle.
+            </p>
+
+            <div class="feature-list">
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Entrecot, chuletón, tomahawk...
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                3 opciones de menú a elegir
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Máximo 10 personas
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Ideal para compartir y celebrar
+              </div>
+            </div>
+
+            <div class="price-tag">
+              <span class="price-tag__from">desde</span>
+              <span class="price-tag__amount">25€</span>
+              <span class="price-tag__unit">/ persona</span>
+            </div>
+
+            <div class="two-col__actions">
+              <a href="tel:722603411" class="btn btn--primary">&#128222; Consultar disponibilidad</a>
+              <a href="https://cibumgroup.com/wp-content/uploads/2025/05/MENU-PREMIUM.pdf" target="_blank" class="btn btn--outline">Ver menú PDF</a>
+            </div>
+          </div>
+          <div class="two-col__image reveal reveal-delay-2">
+            <img src="images/61.jpg" alt="Menú Premium Cibum" style="height: 460px; object-fit: cover; border-radius: 4px; width: 100%;">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Image Strip -->
+  <div class="image-strip" style="height: 280px;">
+    <div class="image-strip__item"><img src="images/63.jpg" alt="Cibum"></div>
+    <div class="image-strip__item"><img src="images/64.jpg" alt="Cibum"></div>
+    <div class="image-strip__item"><img src="images/66.jpg" alt="Cibum"></div>
+    <div class="image-strip__item"><img src="images/67.jpg" alt="Cibum"></div>
+    <div class="image-strip__item"><img src="images/68.jpg" alt="Cibum"></div>
+  </div>
+
+  <!-- Menú Fin de Semana -->
+  <section class="section--dark" id="finde">
+    <div class="container">
+      <div class="menu-section-block">
+        <div class="section-header section-header--center reveal">
+          <span class="eyebrow">Viernes y Sábados</span>
+          <div class="divider"></div>
+          <h2 class="section-title">Menú Fin de Semana</h2>
+          <p class="section-subtitle">El mejor menú de finde de la comarca. Paella, brasa y buena compañía.</p>
+        </div>
+
+        <div style="max-width: 700px; margin: 0 auto;" class="reveal">
+          <div class="menu-compare-card" style="text-align: center;">
+            <div class="menu-compare-card__head">
+              <div class="menu-compare-card__name">Menú Finde al Mediodía</div>
+              <div class="menu-compare-card__subtitle">Sábados y domingos al mediodía</div>
+              <div class="menu-compare-card__price">30€</div>
+              <div class="menu-compare-card__price-unit">por persona</div>
+            </div>
+            <div class="menu-compare-card__body" style="text-align: left;">
+              <div class="menu-compare-card__feature"><span>✓</span> 1 primero a elegir de la carta</div>
+              <div class="menu-compare-card__feature"><span>✓</span> 1 segundo: paella o carne a la brasa</div>
+              <div class="menu-compare-card__feature"><span>✓</span> Botella de vino para dos personas</div>
+              <div class="menu-compare-card__feature"><span>✓</span> Postre incluido</div>
+              <div class="menu-compare-card__feature"><span>✓</span> Café y chupito de cortesía</div>
+              <div class="menu-compare-card__feature"><span>✓</span> Pan artesanal</div>
+            </div>
+            <div class="menu-compare-card__footer">
+              <div style="display: flex; gap: 1rem;">
+                <a href="tel:722603411" class="btn btn--gold" style="flex:1; justify-content: center;">Reservar Mesa</a>
+                <a href="https://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-FIN-DE-SEMANA.pdf" target="_blank" class="btn btn--outline" style="flex:1; justify-content: center;">Ver PDF</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Menú Festivos -->
+  <section class="section--dark2" id="festivos">
+    <div class="container">
+      <div class="menu-section-block">
+        <div class="section-header section-header--center reveal">
+          <span class="eyebrow">Días Festivos Nacionales</span>
+          <div class="divider"></div>
+          <h2 class="section-title">Menú Festivos</h2>
+          <p class="section-subtitle">El mismo espíritu que el menú de finde, pensado especialmente para los días festivos.</p>
+        </div>
+
+        <div style="max-width: 700px; margin: 0 auto;" class="reveal">
+          <div class="menu-compare-card" style="text-align: center;">
+            <div class="menu-compare-card__head">
+              <div class="menu-compare-card__name">Menú Festivos</div>
+              <div class="menu-compare-card__subtitle">Festivos nacionales</div>
+              <div class="menu-compare-card__price">35€</div>
+              <div class="menu-compare-card__price-unit">por persona</div>
+            </div>
+            <div class="menu-compare-card__body" style="text-align: left;">
+              <div class="menu-compare-card__feature"><span>✓</span> 1 primero a elegir de la carta</div>
+              <div class="menu-compare-card__feature"><span>✓</span> 1 segundo: paella o carne a la brasa</div>
+              <div class="menu-compare-card__feature"><span>✓</span> Botella de vino para dos personas</div>
+              <div class="menu-compare-card__feature"><span>✓</span> Postre incluido</div>
+              <div class="menu-compare-card__feature"><span>✓</span> Café y chupito de cortesía</div>
+              <div class="menu-compare-card__feature"><span>✓</span> Ideal para grandes y pequeños grupos</div>
+            </div>
+            <div class="menu-compare-card__footer">
+              <div style="display: flex; gap: 1rem;">
+                <a href="tel:722603411" class="btn btn--gold" style="flex:1; justify-content: center;">Reservar</a>
+                <a href="https://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-FESTIVOS.pdf" target="_blank" class="btn btn--outline" style="flex:1; justify-content: center;">Ver PDF</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Menú Infantil -->
+  <section class="section--dark" id="infantil">
+    <div class="container">
+      <div class="menu-section-block" style="border-bottom: none;">
+        <div class="two-col">
+          <div class="two-col__image reveal">
+            <img src="images/69.jpg" alt="Menú infantil Cibum" style="height: 400px; object-fit: cover; border-radius: 4px; width: 100%;">
+          </div>
+          <div class="two-col__content reveal reveal-delay-2">
+            <span class="eyebrow">Para los más pequeños</span>
+            <div class="divider divider--left"></div>
+            <h2 class="section-title" style="text-align:left;">Menú Infantil</h2>
+            <p class="two-col__text">
+              Pensado especialmente para los peques de la familia. Un menú completo, variado y a un precio muy especial para que toda la familia disfrute en Cibum.
+            </p>
+
+            <div class="feature-list">
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Pensado para los más pequeños
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Completo y variado
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Disponible para menores de 12 años
+              </div>
+              <div class="feature-item">
+                <div class="feature-item__check">✓</div>
+                Platos diseñados para que les encanten
+              </div>
+            </div>
+
+            <div class="price-tag">
+              <span class="price-tag__amount">11,50€</span>
+              <span class="price-tag__unit">/ persona</span>
+            </div>
+
+            <div class="two-col__actions">
+              <a href="tel:722603411" class="btn btn--primary">&#128222; Reservar con niños</a>
+              <a href="https://cibumgroup.com/wp-content/uploads/2025/05/MENU-INFANTIL.pdf" target="_blank" class="btn btn--outline">Ver menú PDF</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Grupos CTA -->
+  <div class="cta-banner">
+    <div class="cta-banner__bg" style="background-image: url('images/70.jpg');"></div>
+    <div class="cta-banner__overlay"></div>
+    <div class="cta-banner__content reveal">
+      <span class="eyebrow">Tu evento, nuestro compromiso</span>
+      <div class="divider"></div>
+      <h2 class="cta-banner__title">¿Necesitas organizar un evento o celebración?</h2>
+      <p class="cta-banner__text">Contáctanos por teléfono y nos encargamos de todo. Tú solo ven a disfrutar. Grupos desde 15 personas.</p>
+      <div class="cta-banner__actions">
+        <a href="tel:722603411" class="btn btn--primary">&#128222; Cornellà: 722 60 34 11</a>
+        <a href="tel:631333891" class="btn btn--outline">&#128222; Sant Boi: 631 33 38 91</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <img src="images/cibum-logo-1.png" alt="CIBUM Group" class="footer__logo">
+          <p class="footer__tagline">El placer de compartir una buena mesa, una buena brasa y un buen momento.</p>
+          <div class="footer__social">
+            <a href="https://www.instagram.com/cibumgroup/" target="_blank" class="footer__social-link" aria-label="Instagram">&#x1F4F7;</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer__col-title">Navegación</div>
+          <ul class="footer__links">
+            <li><a href="index.html" class="footer__link">Inicio</a></li>
+            <li><a href="galeria.html" class="footer__link">Galería</a></li>
+            <li><a href="carta.html" class="footer__link">Carta Cibum</a></li>
+            <li><a href="menus.html" class="footer__link">Menús Especiales</a></li>
+            <li><a href="cornella.html" class="footer__link">Cornellà</a></li>
+            <li><a href="sant-boi.html" class="footer__link">Sant Boi</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer__col-title">Menús</div>
+          <ul class="footer__links">
+            <li><a href="menus.html" class="footer__link">Menú del Día</a></li>
+            <li><a href="menus.html#finde" class="footer__link">Menú Fin de Semana</a></li>
+            <li><a href="menus.html#festivos" class="footer__link">Menú Festivos</a></li>
+            <li><a href="menus.html#grupos" class="footer__link">Menú Grupos</a></li>
+            <li><a href="menus.html#infantil" class="footer__link">Menú Infantil</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer__col-title">Contacto</div>
+          <div class="footer__contact-item">
+            <span class="footer__contact-icon">&#128205;</span>
+            <div class="footer__contact-text">
+              <strong style="color: rgba(255,255,255,0.75);">Cornellà de Llobregat</strong>
+              <a href="tel:722603411">722 60 34 11</a><br>
+              L-D 12:00-17:00 | V-S hasta 1:30am
+            </div>
+          </div>
+          <div class="footer__contact-item">
+            <span class="footer__contact-icon">&#128205;</span>
+            <div class="footer__contact-text">
+              <strong style="color: rgba(255,255,255,0.75);">Sant Boi de Llobregat</strong>
+              <a href="tel:631333891">631 33 38 91</a><br>
+              Próximamente — Junio 2025
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p class="footer__copyright">&copy; 2025 CIBUM Group Restaurant. Todos los derechos reservados.</p>
+        <div class="footer__legal">
+          <a href="politica-cookies.html" class="footer__legal-link">Política de Cookies</a>
+          <a href="politica-privacidad.html" class="footer__legal-link">Política de Privacidad</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating CTA -->
+  <div class="floating-cta">
+    <a href="tel:722603411" class="floating-cta__btn">&#128222; <span>Reservar</span></a>
+  </div>
+
+  <!-- Cookie Banner -->
+  <div class="cookie-banner" style="display:none;">
+    <p class="cookie-banner__text">Utilizamos cookies para ofrecerte la mejor experiencia. <a href="politica-cookies.html">Más información</a></p>
+    <div class="cookie-banner__actions">
+      <button class="btn btn--outline cookie-reject" style="padding: 0.6rem 1.2rem; font-size: 0.75rem;">Rechazar</button>
+      <button class="btn btn--primary cookie-accept" style="padding: 0.6rem 1.2rem; font-size: 0.75rem;">Aceptar</button>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

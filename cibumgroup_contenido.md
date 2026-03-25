@@ -1,0 +1,3182 @@
+﻿# Extraccion de contenido de cibumgroup.com
+
+- Fecha de extraccion: 2026-03-20T16:37:50
+- Sitio base: https://cibumgroup.com
+- URLs detectadas en sitemap: 16
+
+## Indice de URLs
+
+1. https://cibumgroup.com/
+2. https://cibumgroup.com/hello-world-2
+3. https://cibumgroup.com/hello-world
+4. https://cibumgroup.com/carta-cibum
+5. https://cibumgroup.com/menus-findes-y-festivos-cibum
+6. https://cibumgroup.com/menus-cibum
+7. https://cibumgroup.com/menus-infantiles
+8. https://cibumgroup.com/restaurante-cornella-llobregat
+9. https://cibumgroup.com/home-2
+10. https://cibumgroup.com/galeria-cibum
+11. https://cibumgroup.com/restaurante-en-sant-boi
+12. https://cibumgroup.com/sitges
+13. https://cibumgroup.com/vielha
+14. https://cibumgroup.com/politica-de-cookies
+15. https://cibumgroup.com/politica-de-privacidad
+16. https://cibumgroup.com/category/uncategorized
+
+## 1. https://cibumgroup.com/
+
+- Estado HTTP: 200
+- Titulo: Home - cibumgroup.com
+- Meta descripcion: cibum group EL PLACER DE COMPARTIR HAZ CLICK PARA VER MAS cibum group EL PLACER DE COMPARTIR HAZ CLICK PARA VER MAS Restaurantes especialistas en carne CIBUM El placer de compartir. Reservar una mesa Ver Carta cARNES Y PAELLAS PREMIUM ESTO ES CIBUM En Cibum la tradición se cocina con técnica, y cada detalle —del
+
+### Encabezados H1
+- Restaurantes especialistas en carne
+- El placer de compartir.
+- cARNES Y PAELLAS PREMIUM
+- UN ambiente acogedor en +1000 m2
+
+### Encabezados H2
+- CIBUM Group
+- cibum group
+- EL PLACER DE COMPARTIR
+- CIBUM
+- ESTO ES CIBUM
+- EN CIBUM ENCONTRARÁS UNA CARTA AMPLIA, MENÚ DEL DÍA, FINDES Y FESTIVOS, MENÚS PARA GRUPOS Y MUCHO MÁS
+- ¿DÓNDE PUEDES ENCONTRARNOS?
+- CORNELLA
+- SANT BOI
+- que salgas contento es siempre Nuestro objetivo
+- Estamos cocinando cosas muy buenas en nuestras redes
+- NUESTRO ESPACIO
+- te esperamos en cibum
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- cibum group
+- EL PLACER DE COMPARTIR
+- HAZ CLICK PARA VER MAS
+- Restaurantes especialistas en carne
+- CIBUM
+- El placer de compartir.
+- Reservar una mesa
+- Ver Carta
+- cARNES Y PAELLAS PREMIUM
+- ESTO ES CIBUM
+- En Cibum la tradición se cocina con técnica, y cada detalle —
+- del obrador a la mesa
+- — está pensado para crear una experiencia completa.
+- Carnes seleccionadas, paellas hechas al momento y un ambiente que invita a quedarse.
+- Reservar una mesa
+- EN CIBUM ENCONTRARÁS UNA CARTA AMPLIA, MENÚ DEL DÍA, FINDES Y FESTIVOS, MENÚS PARA GRUPOS Y MUCHO MÁS
+- Somos un restaurante especialista en carnes premium a la brasa, arroces, tapas y capaces de hacer un menú del día inigualable con +10 primeros y +20 segundos para escoger
+- Menús grupos
+- Menú findes y festivos
+- Menú del día
+- Carta completa
+- ¿DÓNDE PUEDES ENCONTRARNOS?
+- Cibum está presente en
+- Sant Boi de Llobregat
+- Cornellà de Llobregat
+- . En ambos encontrarás la misma carta, la misma pasión, y el mismo compromiso con lo bien hecho.
+- CORNELLA
+- Dando guerra cada día con pasión y amor por lo que hacemos.
+- 🔥 Ir a Cibum Cornellà
+- SANT BOI
+- Pròximamente…
+- 🌿 Ir a Cibum Sant Boi
+- que salgas contento es siempre Nuestro objetivo
+- Quienes nos visitan destacan el producto, el servicio y el ambiente. Una experiencia que va más allá de comer bien: se trata de sentirse bien
+- Visítanos
+- Visitanos
+- Estamos cocinando cosas muy buenas en nuestras redes
+- A través de nuestras redes compartimos recetas, novedades, equipo, momentos especiales y el día a día de Cibum. ¡Síguenos y forma parte de nuestra comunidad!
+- Síguenos!
+- UN ambiente acogedor en +1000 m2
+- NUESTRO ESPACIO
+- Cada rincón de Cibum está diseñado para que te sientas bien.
+- Materiales nobles, guiños a la naturaleza, luz cálida y detalles que inspiran calma. Queremos que disfrutes no solo de la comida, sino también del lugar donde la compartes.
+- Aquí todo invita a relajarse, conectar y saborear sin prisas.
+- Ver + fotos y videos
+- te esperamos en cibum
+- Un menú del día sin sentido, carnes de primera calidad, tapeo, arroces y mucho más te esperan en Cibum Cornellà
+- Reservar una mesa
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Ver Carta](https://cibumgroup.com/menus-cibum/)
+- [Menús grupos](https://cibumgroup.com/menus-cibum/)
+- [Menú findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Carta completa](https://cibumgroup.com/carta-cibum/)
+- [🔥 Ir a Cibum Cornellà](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [🌿 Ir a Cibum Sant Boi](https://cibumgroup.com/home-2/)
+- [Síguenos!](https://www.instagram.com/cibumgroup/)
+- [Ver + fotos y videos](https://cibumgroup.com/galeria-cibum/)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 2. https://cibumgroup.com/hello-world-2
+
+- Estado HTTP: 200
+- Titulo: Hello world! - cibumgroup.com
+
+### Encabezados H1
+- Hello world!
+
+### Encabezados H2
+- CIBUM Group
+- Un comentario
+- Deja una respuesta Cancelar la respuesta
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Hello world!
+- Un comentario
+- dice:
+- noviembre 21, 2024 a las 5:54 am
+- Hi, this is a comment.
+- To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+- Commenter avatars come from
+- Gravatar
+- Responder
+- Deja una respuesta
+- Cancelar la respuesta
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [noviembre 21, 2024 a las 5:54 am](https://cibumgroup.com/hello-world-2/#comment-2)
+- [Gravatar](https://gravatar.com/)
+- [Cancelar la respuesta](/hello-world-2/#respond)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 3. https://cibumgroup.com/hello-world
+
+- Estado HTTP: 200
+- Titulo: Hello world! - cibumgroup.com
+
+### Encabezados H1
+- Hello world!
+
+### Encabezados H2
+- CIBUM Group
+- Un comentario
+- Deja una respuesta Cancelar la respuesta
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Hello world!
+- Un comentario
+- dice:
+- mayo 11, 2025 a las 10:59 am
+- Hi, this is a comment.
+- To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+- Commenter avatars come from
+- Gravatar
+- Responder
+- Deja una respuesta
+- Cancelar la respuesta
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [mayo 11, 2025 a las 10:59 am](https://cibumgroup.com/hello-world/#comment-1)
+- [Gravatar](https://gravatar.com/)
+- [Cancelar la respuesta](/hello-world/#respond)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 4. https://cibumgroup.com/carta-cibum
+
+- Estado HTTP: 200
+- Titulo: Carta cibum - cibumgroup.com
+- Meta descripcion: Restaurantes especialistas en carne y arroces LA CARTA CIBUM Tenemos la misma carta en cornellà y Sant boi. Disponemos de menú del día y de menús para grupos. Para verlos, haz click en lo que mas te interese. Carta Desayunos Menús premium Menú cenas Menú fin de semana Menú festivos Menú grupo finde 14hs Menú
+
+### Encabezados H1
+- Restaurantes especialistas en carne y arroces
+- Tenemos la misma carta en cornellà y Sant boi. Disponemos de menú del día y de menús para grupos. Para verlos, haz click en lo que mas te interese.
+
+### Encabezados H2
+- CIBUM Group
+- LA CARTA CIBUM
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Restaurantes especialistas en carne y arroces
+- LA CARTA CIBUM
+- Tenemos la misma carta en cornellà y Sant boi.
+- Disponemos de menú del día y de menús para grupos.
+- Para verlos, haz click en lo que mas te interese.
+- Carta
+- Desayunos
+- Menús premium
+- Menú cenas
+- Menú fin de semana
+- Menú festivos
+- Menú grupo finde 14hs
+- Menú grupos
+- Menú grupos entresemana
+- Menú infantil
+- CARTA PARILLA
+- CARTA nOCHE
+- CARTA DESAYUNOS
+- Menús grupos
+- Menú findes y festivos
+- Menú del día
+- Carta completa
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Carta](http://cibumgroup.com/wp-content/uploads/2025/05/menu-parilla.pdf)
+- [Desayunos](http://cibumgroup.com/wp-content/uploads/2025/05/desayunos.pdf)
+- [Menús premium](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-PREMIUM.pdf)
+- [Menú cenas](http://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-CENAS.pdf)
+- [Menú fin de semana](http://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-FIN-DE-SEMANA.pdf)
+- [Menú festivos](http://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-FESTIVOS.pdf)
+- [Menú grupo finde 14hs](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-GRUPO-FIN-DE-SEMANA-MEDIODIA.pdf)
+- [Menú grupos](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-GRUPO-123.pdf)
+- [Menú grupos entresemana](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-GRUPO-123-ENTRESEMANA.pdf)
+- [Menú infantil](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-INFANTIL.pdf)
+- [CARTA PARILLA](https://cibumgroup.com/wp-content/uploads/2025/05/menu-parilla.pdf)
+- [CARTA nOCHE](http://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-CENAS.pdf)
+- [CARTA DESAYUNOS](http://cibumgroup.com/wp-content/uploads/2025/05/desayunos.pdf)
+- [Menús grupos](https://cibumgroup.com/menus-cibum/)
+- [Menú findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Carta completa](https://cibumgroup.com/carta-cibum/)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 5. https://cibumgroup.com/menus-findes-y-festivos-cibum
+
+- Estado HTTP: 200
+- Titulo: Menús findes y festivos cibum - cibumgroup.com
+- Meta descripcion: RESTAURANTE CON MENÚ FIN DE SEMANA EN SANT BOI Y CORNELLÀ MENÚS FINDES Y FESTIVOS CIBUM TENEMOS MENÚ LOS FINES DE SEMANA Y LOS FESTIVOS NACIONALES Menús grupos Menú findes y festivos Menú del día Carta completa menú finde Findes al mediodía € 30 x persona 1 primero y 1 segundo a elegir Paella y
+
+### Encabezados H1
+- RESTAURANTE CON MENÚ FIN DE SEMANA EN SANT BOI Y CORNELLÀ
+- TENEMOS MENÚ LOS FINES DE SEMANA Y LOS FESTIVOS NACIONALES
+
+### Encabezados H2
+- CIBUM Group
+- MENÚS FINDES Y FESTIVOS CIBUM
+- ¡disfruta de un buen menú de fin de semana en cibum!
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Encabezados H3
+- menú finde
+- menú Festivos
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- RESTAURANTE CON MENÚ FIN DE SEMANA EN SANT BOI Y CORNELLÀ
+- MENÚS FINDES Y FESTIVOS CIBUM
+- TENEMOS MENÚ LOS FINES DE SEMANA Y LOS FESTIVOS NACIONALES
+- Menús grupos
+- Menú findes y festivos
+- Menú del día
+- Carta completa
+- menú finde
+- Findes al mediodía
+- 30
+- x persona
+- 1 primero y 1 segundo a elegir
+- Paella y brasa
+- Botella vino para dos
+- Ideal para compartir
+- Ver menú
+- menú Festivos
+- Findes al mediodía
+- 35
+- x persona
+- 1 primero y 1 segundo a elegir
+- Paella y brasa
+- Botella vino para dos
+- Ideal para compartir
+- Ver menú
+- ¡disfruta de un buen menú de fin de semana en cibum!
+- Contáctanos por llamada para organizar tu menú de grupo y disfruta sin hacerte cargo de nada!
+- Reservar una mesa
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Menús grupos](https://cibumgroup.com/menus-cibum/)
+- [Menú findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Carta completa](https://cibumgroup.com/carta-cibum/)
+- [Ver menú](https://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-FIN-DE-SEMANA.pdf)
+- [Ver menú](http://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-FESTIVOS.pdf)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 6. https://cibumgroup.com/menus-cibum
+
+- Estado HTTP: 200
+- Titulo: Menús cibum - cibumgroup.com
+- Meta descripcion: rESTAURANTE CON MENÚ PARA GRUPOS EN SANT BOI Y CORNELLÀ MENÚS ESPECIALES y grupos CIBUM ESTOS SON LOS MENÚS ESPECIALES QUE TENEMOS EN CIBUM, DESLIZA A LA DERECHA PARA VERLOS TODOS. Hay opciones para grupos grandes o pequeños, menú festivoa, fin de semana e infantiles Menús grupos Menú findes y festivos Menú del día Carta
+
+### Encabezados H1
+- rESTAURANTE CON MENÚ PARA GRUPOS EN SANT BOI Y CORNELLÀ
+- ESTOS SON LOS MENÚS ESPECIALES QUE TENEMOS EN CIBUM, DESLIZA A LA DERECHA PARA VERLOS TODOS.
+- Hay opciones para grupos grandes o pequeños, menú festivoa, fin de semana e infantiles
+
+### Encabezados H2
+- CIBUM Group
+- MENÚS ESPECIALES y grupos CIBUM
+- TU MENÚ PARA GRUPO TE ESPERA, CONTÁCTANOS
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Encabezados H3
+- MENÚ PREMIUM
+- MENÚ gRUPOS
+- MENÚ gRUPOS
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- rESTAURANTE CON MENÚ PARA GRUPOS EN SANT BOI Y CORNELLÀ
+- MENÚS ESPECIALES y grupos CIBUM
+- ESTOS SON LOS MENÚS ESPECIALES QUE TENEMOS EN CIBUM, DESLIZA A LA DERECHA PARA VERLOS TODOS.
+- Hay opciones para grupos grandes o pequeños, menú festivoa, fin de semana e infantiles
+- Menús grupos
+- Menú findes y festivos
+- Menú del día
+- Carta completa
+- MENÚ PREMIUM
+- carnes premium de alto nivel
+- 25
+- desde x persona
+- Entrecot, chuletón, tomahawk, cachopos...
+- 3 opciones
+- Máximo 10 personas
+- Ideal para compartir
+- Ver menú
+- MENÚ gRUPOS
+- Findes mediodía
+- 30
+- x persona
+- Entrecot, bacalao, cabrito, pluma iberica...
+- Aperitivos de primera
+- Mínimo 15 personas
+- Ideal para compartir
+- Ver menú
+- MENÚ gRUPOS
+- Cualquier momento
+- 35,50
+- desde x persona
+- 3 Opciones diversas de primer nivel
+- Carnes y pescados
+- Mínimo 15 personas
+- Ideal para compartir
+- Ver menú
+- TU MENÚ PARA GRUPO TE ESPERA, CONTÁCTANOS
+- Contáctanos por llamada para organizar tu menú de grupo y disfruta sin hacerte cargo de nada!
+- Reservar una mesa
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Menús grupos](https://cibumgroup.com/menus-cibum/)
+- [Menú findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Carta completa](https://cibumgroup.com/carta-cibum/)
+- [Ver menú](https://cibumgroup.com/wp-content/uploads/2025/05/MENU-PREMIUM.pdf)
+- [Ver menú](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-GRUPO-FIN-DE-SEMANA-MEDIODIA.pdf)
+- [Ver menú](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-GRUPO-123-ENTRESEMANA.pdf)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 7. https://cibumgroup.com/menus-infantiles
+
+- Estado HTTP: 200
+- Titulo: Menús Infantiles - cibumgroup.com
+- Meta descripcion: Restaurante con menú infantil en sant boi de llobregat y cornella de llobregat MENú infantil CIBUM Menús grupos Menú findes y festivos Menú del día Carta completa menú finde Findes al mediodía € 11,50 x persona Pensado para los peques Completo y variado Máximo 12 años Ver menú menú finde Findes al mediodía € 11,50
+
+### Encabezados H1
+- Restaurante con menú infantil en sant boi de llobregat y cornella de llobregat
+
+### Encabezados H2
+- CIBUM Group
+- MENú infantil CIBUM
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Encabezados H3
+- menú finde
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Restaurante con menú infantil en sant boi de llobregat y cornella de llobregat
+- MENú infantil CIBUM
+- Menús grupos
+- Menú findes y festivos
+- Menú del día
+- Carta completa
+- menú finde
+- Findes al mediodía
+- 11,50
+- x persona
+- Pensado para los peques
+- Completo y variado
+- Máximo 12 años
+- Ver menú
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Menús grupos](https://cibumgroup.com/menus-cibum/)
+- [Menú findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Carta completa](https://cibumgroup.com/carta-cibum/)
+- [Ver menú](https://cibumgroup.com/wp-content/uploads/2025/05/MENU-INFANTIL.pdf)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 8. https://cibumgroup.com/restaurante-cornella-llobregat
+
+- Estado HTTP: 200
+- Titulo: Home Cornella - cibumgroup.com
+- Meta descripcion: Restaurante de carnes premium en Cornellà de Llobregat CIBUM Cornellà Carnes a la brasa, paellas hechas al momento y un espacio para disfrutar. Reservar una mesa Ver Carta cARNES Y PAELLAS PREMIUM Bienvenidos a CIBUM CORNELLÀ En pleno Cornellà, Cibum combina tradición e innovación con un único objetivo: que comas espectacular.Nuestra especialidad son las carnes
+
+### Encabezados H1
+- Restaurante de carnes premium en Cornellà de Llobregat
+- Carnes a la brasa, paellas hechas al momento y un espacio para disfrutar.
+- cARNES Y PAELLAS PREMIUM
+- UN ambiente acogedor en +1000 m2
+
+### Encabezados H2
+- CIBUM Group
+- CIBUM Cornellà
+- Bienvenidos a CIBUM CORNELLÀ
+- NUESTRA COMIDA
+- de Todo un poco
+- EL AMBIENTE
+- EN CIBUM ENCONTRARÁS UNA CARTA AMPLIA, MENÚ DEL DÍA, FINDES Y FESTIVOS, MENÚS PARA GRUPOS Y MUCHO MÁS
+- ESTO OPINA LA GENTE DE NUESTRO RESTAURANTE EN CORNELLÀ
+- UN MENÚ DEL DÍA COMO MUY POCOS...
+- NO TE PIERDAS TODO LO QUE VIENE
+- EL ESPACIO DE NUESTRO RESTAURANTE EN CORNELLÀ
+- ¡También estaREmos en sant boi!
+- SANT BOI
+- te esperamos en cibum cornellà
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Restaurante de carnes premium en Cornellà de Llobregat
+- CIBUM Cornellà
+- Carnes a la brasa, paellas hechas al momento y un espacio para disfrutar.
+- Reservar una mesa
+- Ver Carta
+- cARNES Y PAELLAS PREMIUM
+- Bienvenidos a CIBUM CORNELLÀ
+- En pleno Cornellà, Cibum combina tradición e innovación con un único objetivo: que comas espectacular.
+- Nuestra especialidad son las carnes maduradas, los arroces cocinados bajo pedido y el tapeo hecho con mimo. Todo servido en un ambiente acogedor que respira calidez y profesionalidad.
+- Reservar una mesa
+- Ver carta
+- Reservar una mesa
+- NUESTRA COMIDA
+- de Todo un poco
+- EL AMBIENTE
+- EN CIBUM ENCONTRARÁS UNA CARTA AMPLIA, MENÚ DEL DÍA, FINDES Y FESTIVOS, MENÚS PARA GRUPOS Y MUCHO MÁS
+- Somos un restaurante especialista en carnes premium a la brasa, arroces, tapas y capaces de hacer un menú del día inigualable con +10 primeros y +20 segundos para escoger
+- Menús grupos
+- Menú findes y festivos
+- Menú del día
+- Carta completa
+- ESTO OPINA LA GENTE DE NUESTRO RESTAURANTE EN CORNELLÀ
+- Quienes nos visitan destacan el trato cercano, la calidad de nuestras carnes y el sabor auténtico de nuestras paellas. Pero lo que más valoran es cómo los hacemos sentir: como en casa, pero mejor.
+- Visítanos
+- UN MENÚ DEL DÍA COMO MUY POCOS...
+- Tenemos un menú del día único, con carnes de primera, platos muy elaborados y postres caseros. A tan solo 15,90€!
+- Ver menú del día
+- NO TE PIERDAS TODO LO QUE VIENE
+- ¡Síguenos y forma parte de nuestra comunidad!
+- Síguenos!
+- UN ambiente acogedor en +1000 m2
+- EL ESPACIO DE NUESTRO RESTAURANTE EN CORNELLÀ
+- Cada rincón de Cibum está diseñado para que te sientas bien.
+- Materiales nobles, guiños a la naturaleza, luz cálida y detalles que inspiran calma. Queremos que disfrutes no solo de la comida, sino también del lugar donde la compartes.
+- Aquí todo invita a relajarse, conectar y saborear sin prisas.
+- Reservar una mesa
+- ¡También estaREmos en sant boi!
+- En nada abrimos las puertas de un nuevo CIBUM en Sant boi
+- SANT BOI
+- Pròximamente…
+- 🌿 Ir a Cibum Sant Boi
+- te esperamos en cibum cornellà
+- Un menú del día sin sentido, carnes de primera calidad, tapeo, arroces y mucho más te esperan en Cibum Cornellà
+- Reservar una mesa
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Ver Carta](https://cibumgroup.com/menus-cibum/)
+- [Ver carta](https://cibumgroup.com/menus-cibum/)
+- [Reservar una mesa](tel:722%2060%2034%2011)
+- [Menús grupos](https://cibumgroup.com/menus-cibum/)
+- [Menú findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Carta completa](https://cibumgroup.com/carta-cibum/)
+- [Ver menú del día](http://-)
+- [Síguenos!](https://www.instagram.com/cibumgroup/)
+- [🌿 Ir a Cibum Sant Boi](https://cibumgroup.com/home-2/)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 9. https://cibumgroup.com/home-2
+
+- Estado HTTP: 200
+- Titulo: Home-CONSTRUCCION - cibumgroup.com
+- Meta descripcion: Restaurante especialista en carne y arroces en sant boi PRÓXIMAMENTE TAMBIÉN EN SANT BOI DEL LLOBREGAT El placer de compartir.
+
+### Encabezados H1
+- Restaurante especialista en carne y arroces en sant boi
+- El placer de compartir.
+
+### Encabezados H2
+- CIBUM Group
+- PRÓXIMAMENTE TAMBIÉN EN SANT BOI DEL LLOBREGAT
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Restaurante especialista en carne y arroces en sant boi
+- PRÓXIMAMENTE TAMBIÉN EN SANT BOI DEL LLOBREGAT
+- El placer de compartir.
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 10. https://cibumgroup.com/galeria-cibum
+
+- Estado HTTP: 200
+- Titulo: galería cibum - cibumgroup.com
+- Meta descripcion: Sabores que se ven, momentos que se sienten ESTO ES CIBUM En Cibum cada plato, cada rincón y cada gesto cuenta una historia. Nuestra galería es una ventana a lo que vivimos a diario: la brasa encendida, el arroz chispeando, el ambiente cálido y las mesas llenas de sonrisas.PRIMERO TE MOSTRAMOS ALGUNOS VIDEOS Y LUEGO
+
+### Encabezados H1
+- Sabores que se ven, momentos que se sienten
+- En Cibum cada plato, cada rincón y cada gesto cuenta una historia. Nuestra galería es una ventana a lo que vivimos a diario: la brasa encendida, el arroz chispeando, el ambiente cálido y las mesas llenas de sonrisas. PRIMERO TE MOSTRAMOS ALGUNOS VIDEOS Y LUEGO LAS FOTOS
+
+### Encabezados H2
+- CIBUM Group
+- ESTO ES CIBUM
+- NUESTRA COMIDA
+- de Todo un poco
+- EL AMBIENTE
+- te esperamos en cibum
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Sabores que se ven, momentos que se sienten
+- ESTO ES CIBUM
+- En Cibum cada plato, cada rincón y cada gesto cuenta una historia.
+- Nuestra galería es una ventana a lo que vivimos a diario: la brasa encendida, el arroz chispeando, el ambiente cálido y las mesas llenas de sonrisas.
+- PRIMERO TE MOSTRAMOS ALGUNOS VIDEOS Y LUEGO LAS FOTOS
+- NUESTRA COMIDA
+- de Todo un poco
+- EL AMBIENTE
+- Todo
+- Cornellà
+- Carnes
+- te esperamos en cibum
+- Un menú del día sin sentido, carnes de primera calidad, tapeo, arroces y mucho más te esperan en Cibum Cornellà
+- Reservar una mesa
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- https://cibumgroup.com/wp-content/uploads/2025/05/34.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/36.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/37.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/66.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/67.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/68.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/76.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/73.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/70.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/64.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/69.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/15-1.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/14-1.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/13-1.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/7-1.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/9.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/10.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/11.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/12.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/13.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/20.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/21.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/19.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/23.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/42.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/41.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/40.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/39.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/38.jpg
+- https://cibumgroup.com/wp-content/uploads/2025/05/43.jpg
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 11. https://cibumgroup.com/restaurante-en-sant-boi
+
+- Estado HTTP: 200
+- Titulo: Home sant boi - cibumgroup.com
+- Meta descripcion: Restaurantes especialistas en carne CIBUM El placer de compartir. Reservar una mesa Ver Carta cARNES Y PAELLAS PREMIUM ESTO ES CIBUM En Cibum la tradición se cocina con técnica, y cada detalle —del obrador a la mesa— está pensado para crear una experiencia completa.Carnes seleccionadas, paellas hechas al momento y un ambiente que invita a
+
+### Encabezados H1
+- Restaurantes especialistas en carne
+- El placer de compartir.
+- cARNES Y PAELLAS PREMIUM
+- UN ambiente acogedor en +1000 m2
+
+### Encabezados H2
+- CIBUM Group
+- CIBUM
+- ESTO ES CIBUM
+- ¿DÓNDE PUEDES ENCONTRARNOS?
+- SANT BOI
+- CORNELLA
+- que salgas contento es siempre Nuestro objetivo
+- Estamos cocinando cosas muy buenas en nuestras redes
+- NUESTRO ESPACIO
+- Cibum: el lugar donde todo encaja
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Restaurantes especialistas en carne
+- CIBUM
+- El placer de compartir.
+- Reservar una mesa
+- Ver Carta
+- cARNES Y PAELLAS PREMIUM
+- ESTO ES CIBUM
+- En Cibum la tradición se cocina con técnica, y cada detalle —
+- del obrador a la mesa
+- — está pensado para crear una experiencia completa.
+- Carnes seleccionadas, paellas hechas al momento y un ambiente que invita a quedarse.
+- Reservar una mesa
+- ¿DÓNDE PUEDES ENCONTRARNOS?
+- Cibum está presente en
+- Sant Boi de Llobregat
+- Cornellà de Llobregat
+- . En ambos encontrarás la misma carta, la misma pasión, y el mismo compromiso con lo bien hecho.
+- SANT BOI
+- Pròximamente…
+- 🌿 Ir a Cibum Sant Boi
+- CORNELLA
+- Dando guerra cada día con pasión y amor por lo que hacemos.
+- 🔥 Ir a Cibum Cornellà
+- que salgas contento es siempre Nuestro objetivo
+- Quienes nos visitan destacan el trato cercano, la calidad de nuestras carnes y el sabor auténtico de nuestras paellas. Pero lo que más valoran es cómo los hacemos sentir: como en casa, pero mejor.
+- Visítanos
+- Estamos cocinando cosas muy buenas en nuestras redes
+- A través de nuestras redes compartimos recetas, novedades, equipo, momentos especiales y el día a día de Cibum. ¡Síguenos y forma parte de nuestra comunidad!
+- Síguenos!
+- UN ambiente acogedor en +1000 m2
+- NUESTRO ESPACIO
+- Cada rincón de Cibum está diseñado para que te sientas bien.
+- Materiales nobles, guiños a la naturaleza, luz cálida y detalles que inspiran calma. Queremos que disfrutes no solo de la comida, sino también del lugar donde la compartes.
+- Aquí todo invita a relajarse, conectar y saborear sin prisas.
+- Reservar una mesa
+- Cibum: el lugar donde todo encaja
+- Tanto si quieres celebrar, como comer bien sin más, en Cibum te esperamos con brasas encendidas, arroz al punto y una sonrisa.
+- Elige tu local y empieza a saborear el placer de compartir.
+- Reservar una mesa
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [🌿 Ir a Cibum Sant Boi](https://cibumgroup.com/vielha/)
+- [🔥 Ir a Cibum Cornellà](https://cibumgroup.com/sitges/)
+- [Síguenos!](https://www.instagram.com/tantogusto.es/)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 12. https://cibumgroup.com/sitges
+
+- Estado HTTP: 200
+- Titulo: Sitges - cibumgroup.com
+- Meta descripcion: Comida para llevar en Sitges TANTO GUSTO sitges Café de especialidad, empanadas, dulces argentinos y platos del día! Comida casera Hecho con amor Comida casera Hecho con amor Comida casera Hecho con amor Comida casera Hecho con amor ESTAMOS A 2 MINUTOS CAMINANDO DE LA PLAYA En Sitges no tenemos mesa, pero esta la playa
+
+### Encabezados H1
+- Comida para llevar en Sitges
+- Café de especialidad, empanadas, dulces argentinos y platos del día!
+
+### Encabezados H2
+- CIBUM Group
+- TANTO GUSTO sitges
+- ESTAMOS A 2 MINUTOS CAMINANDO DE LA PLAYA
+- ¿qué hacemos en tanto gusto?
+- PLATO DEL DÍA
+- Empanadas
+- DULCES
+- SÍGUENOS EN INSTAGRAM, TE VALDRÁ LA PENA 😉
+- ¿Qué opina la gente de tanto gusto sitges?
+- NUESTRA CARTA en sitges
+- date un capricho que te valga la pena
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿NECESITAS ALGO DE TG SITGES?
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Comida para llevar en Sitges
+- TANTO GUSTO sitges
+- Café de especialidad, empanadas, dulces argentinos y platos del día!
+- Comida casera
+- Hecho con amor
+- Comida casera
+- Hecho con amor
+- Comida casera
+- Hecho con amor
+- Comida casera
+- Hecho con amor
+- ESTAMOS A 2 MINUTOS CAMINANDO DE LA PLAYA
+- En Sitges no tenemos mesa, pero esta la playa a 2 minutos caminando 😉
+- Ven a visitarnos o llama para que te preparemos tu pedido antes de que pases:)
+- Llámanos!
+- ¿qué hacemos en tanto gusto?
+- PLATO DEL DÍA
+- Milanesa a la napolitana, tostadas, lasagna y más!
+- Empanadas
+- Nuestra especialidad y por lo que mas se nos conoce.
+- DULCES
+- Todo casero, preparado día a día con mucho amor
+- SÍGUENOS EN INSTAGRAM, TE VALDRÁ LA PENA 😉
+- Síguenos y no te pierdas todo lo que está por venir en el insta de Tanto Gusto;
+- Ofertas del mes, novedades, recetas y mucho mas!
+- Síguenos!
+- ¿Qué opina la gente de tanto gusto sitges?
+- Trabajamos día a día para hacer de tanto gusto una experiencia especial. Para hacer que todo aquel que nos visita se lleve una sonrisa y un buen momento.
+- Ver google maps
+- ¡Síguenos!
+- NUESTRA CARTA en sitges
+- Empanadas
+- Dulces caseros
+- Platos del día
+- Tostadas
+- Cafetería
+- Empanadas
+- Unidad para el salón
+- 3,75€
+- Unidad para llevar
+- 3,00€
+- Carne suave
+- Carne picante
+- Pollo
+- Cerdo BBQ
+- Cerdo cerveza
+- Vacío y provolone
+- Jamón y mozzarella
+- Bacon, cebolla y mozzarella
+- Espinaca y bechamel (V)
+- Cebolla y mozzarella
+- Caprese (tomate,
+- mozzarella y albahaca)
+- Setas, cebolla y mozzarella
+- Calabaza, curry y tofu
+- 4 quesos
+- Calabacín y Gorgonzola
+- Brócoli, ajo y champiñón
+- Apple Roll (V)
+- 5,00€
+- Carrot Cake (SG)
+- 5,00€ por porción
+- Banana Bread (SG)
+- 5,00€ por porción
+- Coco y dulce de leche
+- 4,00€
+- Chocolate y dulce de leche
+- 4,00€
+- Crumble de manzana
+- 4,00€
+- Crumble de frutos rojos
+- 4,00€
+- Alfajor de maicena
+- 3,00€
+- Alfajor de chocolate
+- 3,00€
+- Alfajor sable
+- 3,00€
+- Cookies de avena (V, SG)
+- 3,00€
+- Cookie de chocolate (V, SG)
+- 3,00€
+- Merengues (SG)
+- 2,00€
+- Milanesa napolitana
+- 14,00€
+- Parmigiana de berenjenas (SG)
+- 10,50€
+- Lasaña de Bolognesa
+- 10,50€
+- Ensalada de burrata (SG)
+- 10,50€
+- Ensalada de queso de cabra (SG)
+- 10,50€
+- Lasaña de espinaca y calabaza (V)
+- 10,50€
+- Tostada aguacate y huevo
+- 7,00€
+- Tostada bacon y huevo
+- 7,50€
+- Tostada mantequilla y mermelada
+- 4,00€
+- Bocadillo queso
+- 5,00€
+- Bocadillo jamón serrano
+- 7,00€
+- Bocadillo jamón dulce
+- 6,00€
+- Bocadillo bacon
+- 6,00€
+- Bocadillo de milanesa
+- 14,00€
+- Café
+- 1,60€
+- Café Tallat
+- 1,70€
+- Café Doble
+- 2,50€
+- Americano
+- 2,20€
+- Café amb llet
+- 2,20€
+- Capuchino
+- 2,80€
+- Flat White
+- 3,00€
+- Latte Macchiato
+- 4,50€
+- Matcha Latte
+- 4,50€
+- Chai Latte
+- 4,50€
+- Infusiones
+- 2,50€
+- Té
+- 2,50€
+- Gold Milk
+- 4,50€
+- Extras:
+- Extra de leche vegetal o hielo –
+- 0,30€
+- Café orgánico de origen Guatemala.
+- date un capricho que te valga la pena
+- Te esperamos en Sitges con unas ricas empanadas, o unos dulces + nuestro café
+- Llamar
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- Llámanos para hacer tu pedido para pasar a recoger y así no esperar ;)
+- ¿NECESITAS ALGO DE TG SITGES?
+- Lunes a Domingos
+- De 8:00 a 23:00
+- 631 33 38 91​
+- A 2 minutos de la playa
+- Haz Click para ir a google maps
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Llámanos!](tel:631333891)
+- [Síguenos!](https://www.instagram.com/tantogusto.es/)
+- [Ver google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [Llamar](tel:631%2033%2038%2091)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Haz Click para ir a google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 13. https://cibumgroup.com/vielha
+
+- Estado HTTP: 200
+- Titulo: Vielha - cibumgroup.com
+- Meta descripcion: Comida para llevar y cafetería en Vielha TANTO GUSTO VIELHA Nuestro amor llega a la montaña Comida para llevar y cafetería en Vielha TANTO GUSTO VIELHA Nuestro amor llega a la montaña Comida casera Hecho con amor Comida casera Hecho con amor Comida casera Hecho con amor Comida casera Hecho con amor eN EL CENTRO
+
+### Encabezados H1
+- Comida para llevar y cafetería en Vielha
+- Nuestro amor llega a la montaña
+- Comida para llevar y cafetería en Vielha
+- Nuestro amor llega a la montaña
+
+### Encabezados H2
+- CIBUM Group
+- TANTO GUSTO VIELHA
+- TANTO GUSTO VIELHA
+- eN EL CENTRO DE VIELHA PARA DISFRUTAR
+- ¿qué hacemos en tanto gusto?
+- BOCATAS
+- Empanadas
+- DULCES
+- SÍGUENOS EN INSTAGRAM, TE VALDRÁ LA PENA 😉
+- ¿Qué opina la gente de tanto gusto VIELHA?
+- NUESTRA CARTA en vielha
+- date un capricho que te valga la pena
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿NECESITAS ALGO DE TG vielha?
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Comida para llevar y cafetería en Vielha
+- TANTO GUSTO VIELHA
+- Nuestro amor llega a la montaña
+- Comida para llevar y cafetería en Vielha
+- TANTO GUSTO VIELHA
+- Nuestro amor llega a la montaña
+- Comida casera
+- Hecho con amor
+- Comida casera
+- Hecho con amor
+- Comida casera
+- Hecho con amor
+- Comida casera
+- Hecho con amor
+- eN EL CENTRO DE VIELHA PARA DISFRUTAR
+- En Tanto Gusto Vielha, te invitamos a descubrir el auténtico sabor de Argentina en un ambiente acogedor.
+- Tenemos empanadas artesanales, dulces argentinos caseros, bocatas especiales y café de especialidad, ideales para recargar energías después de explorar el Valle de Arán.
+- Llámanos!
+- ¿qué hacemos en tanto gusto?
+- BOCATAS
+- Hacemos unos bocatas y tostadas muy ricos
+- Empanadas
+- Nuestra especialidad y por lo que mas se nos conoce.
+- DULCES
+- Todo casero, preparado día a día con mucho amor
+- SÍGUENOS EN INSTAGRAM, TE VALDRÁ LA PENA 😉
+- Síguenos y no te pierdas todo lo que está por venir en el insta de Tanto Gusto;
+- Ofertas del mes, novedades, recetas y mucho mas!
+- Síguenos!
+- ¿Qué opina la gente de tanto gusto VIELHA?
+- Trabajamos día a día para hacer de tanto gusto una experiencia especial. Para hacer que todo aquel que nos visita se lleve una sonrisa y un buen momento.
+- Ver google maps
+- ¡Síguenos!
+- NUESTRA CARTA en vielha
+- Empanadas
+- Cafetería
+- Bocadillos
+- Tostadas
+- Dulces caseros
+- Empanadas
+- Unidad para el salón
+- 3,75€
+- Unidad para llevar
+- 3,00€
+- Carne suave
+- Carne picante
+- Pollo
+- Cerdo BBQ
+- Vacío y provolone
+- Jamón y mozzarella
+- Bacon, cebolla y mozzarella
+- Espinaca y bechamel (V)
+- Cebolla y mozzarella
+- Caprese (tomate,
+- mozzarella y albahaca)
+- Setas, cebolla y mozzarella
+- Café
+- 1,60€
+- Café Tallat
+- 1,70€
+- Café Doble
+- 2,50€
+- Americano
+- 2,20€
+- Café amb llet
+- 2,20€
+- Capuchino
+- 2,80€
+- Flat White
+- 3,00€
+- Latte Macchiato
+- 4,50€
+- Matcha Latte
+- 4,50€
+- Chai Latte
+- 4,50€
+- Infusiones
+- 2,50€
+- Té
+- 2,50€
+- Gold Milk
+- 4,50€
+- Extras:
+- Extra de leche vegetal o hielo –
+- 0,30€
+- Café orgánico de origen Guatemala.
+- Patagónico
+- 9,00€
+- Carne de ternera cocida a baja temperatura, queso provolone, hojas frescas, tomate y salsa criolla.
+- Santafesino
+- 9,00€
+- Pulled pork, queso cheddar, rúcula y cebolla crispy.
+- Buenos Aires
+- 9,00€
+- Pollo desmenuzado, champiñón asado, cebollino, queso Philadelphia, pimiento y cebolla al horno.
+- Veggie
+- 8,00€
+- Vegetales asados (berenjenas, calabacín, champiñón, pimiento rojo, cebolla y tomate), hummus y semillas de calabaza.
+- Bocadillo queso
+- 5,00€
+- Bocadillo jamón serrano
+- 7,00€
+- Bocadillo jamón dulce
+- 6,00€
+- Bocadillo bacon
+- 6,00€
+- Tomate y jamón
+- 7,00€
+- Philadelphia y huevo
+- 7,00€
+- Mantequilla y mermelada
+- 4,00€
+- Tomate y aguacate
+- 8,00€
+- Aceite y tomate
+- 4,00€
+- Extras:
+- Jamón serrano –
+- 2,50€
+- Huevo –
+- 2,00€
+- Aguacate –
+- 2,50€
+- Rúcula –
+- 1,50€
+- Queso –
+- 2,00€
+- Apple Roll (V)
+- 5,00€
+- Carrot Cake (SG)
+- 5,00€ por porción
+- Banana Bread (SG)
+- 5,00€ por porción
+- Coco y dulce de leche
+- 5,00€
+- Chocolate y dulce de leche
+- 5,00€
+- Crumble de manzana
+- 5,00€
+- Crumble de frutos rojos
+- 5,00€
+- Alfajor de maicena
+- 3,50€
+- Alfajor de chocolate
+- 3,50€
+- Alfajor sable
+- 3,50€
+- Cookies de avena (V, SG)
+- 3,00€
+- Cookie de chocolate (V, SG)
+- 3,00€
+- Merengues (SG)
+- 2,00€
+- date un capricho que te valga la pena
+- Te esperamos en TG Vielha para que disfrutes de tu cafesito y recargues pilas para volver a pista!
+- Llamar
+- Llámanos!
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- Llámanos para hacer tu pedido para pasar a recoger o para reservar mesa
+- ¿NECESITAS ALGO DE TG vielha?
+- Lunes a Domingos
+- De 8:00 a 20:00
+- 973 82 85 13
+- Haz Click para ir a google maps
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Llámanos!](tel:973%2082%2085%2013)
+- [Síguenos!](https://www.instagram.com/tantogusto.es/)
+- [Ver google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a89b0770236c2b:0x5ec3b4969313ff2b!8m2!3d42.7031159!4d0.7935797!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11tm_f6t55?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Haz Click para ir a google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a89b0770236c2b:0x5ec3b4969313ff2b!8m2!3d42.7031159!4d0.7935797!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11tm_f6t55?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 14. https://cibumgroup.com/politica-de-cookies
+
+- Estado HTTP: 200
+- Titulo: Política de cookies - cibumgroup.com
+- Meta descripcion: Política de COOKIES 1. ¿Qué son las Cookies?Las cookies son pequeños archivos de texto que se almacenan en tu dispositivo cuando visitas nuestro sitio web. Nos permiten mejorar tu experiencia de navegación y realizar análisis estadísticos.2. Tipos de Cookies que UtilizamosEn este sitio web utilizamos las siguientes cookies:Cookies necesarias: Esenciales para el funcionamiento básico del
+
+### Encabezados H2
+- CIBUM Group
+- Política de COOKIES
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Política de COOKIES
+- 1. ¿Qué son las Cookies?
+- Las cookies son pequeños archivos de texto que se almacenan en tu dispositivo cuando visitas nuestro sitio web. Nos permiten mejorar tu experiencia de navegación y realizar análisis estadísticos.
+- 2. Tipos de Cookies que Utilizamos
+- En este sitio web utilizamos las siguientes cookies:
+- Cookies necesarias
+- : Esenciales para el funcionamiento básico del sitio.
+- Cookies de análisis
+- : Usamos Google Analytics para recopilar datos anonimizados sobre el uso del sitio, como páginas vistas y tiempo de permanencia.
+- 3. Gestión de Cookies
+- Puedes configurar tu navegador para aceptar, rechazar o eliminar cookies. Aquí tienes instrucciones para los navegadores más comunes:
+- Google Chrome
+- Instrucciones
+- Mozilla Firefox
+- Instrucciones
+- Safari
+- Instrucciones
+- Recuerda que deshabilitar cookies puede afectar la funcionalidad de nuestro sitio web.
+- 4. Cookies de Terceros
+- Utilizamos Google Analytics para realizar análisis estadísticos. Puedes consultar la política de privacidad de Google aquí:
+- Política de privacidad de Google
+- 5. Cambios en la Política de Cookies
+- Nos reservamos el derecho a actualizar esta política en función de cambios legislativos o funcionales en el sitio web. Te recomendamos revisarla periódicamente para estar informado de las actualizaciones.
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Instrucciones](https://support.mozilla.org/es/kb/Deshabilitar%20cookies%20de%20terceros)
+- [Instrucciones](https://support.apple.com/es-es/HT201265)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 15. https://cibumgroup.com/politica-de-privacidad
+
+- Estado HTTP: 200
+- Titulo: Política de privacidad - cibumgroup.com
+- Meta descripcion: Política de privacidad 1. Información sobre el Responsable del TratamientoResponsable del Tratamiento: Jose Ariel StupinoNIE: Y7385799NDomicilio: C. Rafael Llopart 70, 08870, Sitges, EspañaEmail: [Insertar email de contacto]Teléfono: [Insertar número de contacto]2. Datos que RecogemosEn el sitio web recogemos únicamente datos no identificativos a través de herramientas analíticas como Google Analytics. Los datos recopilados incluyen:Dirección IP
+
+### Encabezados H2
+- CIBUM Group
+- Política de privacidad
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Política de privacidad
+- 1. Información sobre el Responsable del Tratamiento
+- Responsable del Tratamiento
+- : Jose Ariel Stupino
+- NIE
+- : Y7385799N
+- Domicilio
+- : C. Rafael Llopart 70, 08870, Sitges, España
+- Email
+- : [Insertar email de contacto]
+- Teléfono
+- : [Insertar número de contacto]
+- 2. Datos que Recogemos
+- En el sitio web recogemos únicamente datos no identificativos a través de herramientas analíticas como Google Analytics. Los datos recopilados incluyen:
+- Dirección IP (anonimizada)
+- Información sobre el navegador y dispositivo utilizado
+- Páginas vistas y tiempo de permanencia en el sitio
+- 3. Finalidad del Tratamiento
+- Los datos se utilizan exclusivamente para:
+- Análisis estadístico
+- : Entender cómo los usuarios interactúan con el sitio web y optimizar su funcionamiento.
+- 4. Base Legal para el Tratamiento
+- El tratamiento de los datos no identificativos se realiza sobre la base del
+- interés legítimo
+- del responsable de mejorar el sitio web mediante análisis y optimización.
+- 5. Cesión de Datos a Terceros
+- No se comparten datos personales con terceros, salvo con proveedores de servicios analíticos como Google Analytics, que procesa datos anonimizados con fines estadísticos. Puedes consultar su política de privacidad aquí:
+- Política de privacidad de Google
+- 6. Plazos de Conservación de los Datos
+- Los datos recopilados se conservarán mientras sean necesarios para los fines analíticos o hasta que el usuario revoque su consentimiento desactivando las cookies.
+- 7. Derechos de los Usuarios
+- Como usuario tienes derecho a:
+- Solicitar acceso a los datos recogidos.
+- Oponerte al tratamiento de los datos de navegación con fines analíticos.
+- Puedes ejercer estos derechos configurando tu navegador para bloquear las cookies o utilizando el mecanismo de opt-out de Google Analytics:
+- Opt-out de Google Analytics
+- 8. Seguridad de los Datos
+- Adoptamos medidas técnicas y organizativas adecuadas para garantizar la protección de los datos no identificativos recogidos en nuestro sitio web.
+- 9. Cambios en la Política de Privacidad
+- Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento para adaptarla a cambios legislativos o funcionales en el sitio web. Te recomendamos revisarla periódicamente.
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
+## 16. https://cibumgroup.com/category/uncategorized
+
+- Estado HTTP: 200
+- Titulo: Uncategorized - cibumgroup.com
+
+### Encabezados H1
+- Categoría: Uncategorized
+
+### Encabezados H2
+- CIBUM Group
+- Hello world!
+- Hello world!
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- ESTE JUNIO ABRIMOS UN NUEVO LOCAL EN SANT BOI
+- CORNELLA
+- Política de cookies
+- Política de Privacidad
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- SANTBOI
+- CORNELLA
+
+### Texto visible
+
+- Ir al contenido
+- CIBUM Group
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Home
+- Galería
+- Carta cibum
+- Menús para grupos
+- Menús findes y festivos
+- Menús Infantil
+- Cornella
+- Sant Boi
+- Reservas
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Home
+- Cornella
+- Sant boi – construcción
+- Carta
+- Menús cibum
+- Menús findes y festivos
+- Galería
+- Reservas
+- Síguenos en insta!
+- Categoría:
+- Uncategorized
+- Hello world!
+- Hello world!
+- EL PLACER DE COMPARTIR
+- SANTBOI
+- Lunes a Domingos
+- 631 33 38 91​
+- De 8:00 a 23:00
+- A 2 minutos de la playa
+- Click para google maps
+- ESTE JUNIO
+- ABRIMOS UN NUEVO LOCAL
+- EN SANT BOI
+- Reservar una mesa
+- CORNELLA
+- Lunes a Domingos
+- De 12hs a 17hs
+- 722 60 34 11
+- Click para google maps
+- Reservar una mesa
+- Política de cookies
+- Política de Privacidad
+- Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+- Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los
+- ajustes
+- Aceptar
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- 722 60 34 11
+- ¿DÓNDE NOS QUIERES VISITAR?
+- Llámanos al local que quieras reservar una mesa
+- SANTBOI
+- NUEVA OBERTURA ESTE JUNIO –
+- CORNELLA
+- DE LUNES A DOMINGO
+- de 12:00 a 17:00
+- Sábados y Viernes
+- Abrimos hasta la 1:30am
+- Llámanos
+- Cerrar los ajustes de cookies RGPD
+- Resumen de privacidad
+- Cookies estrictamente necesarias
+- Powered by
+- GDPR Cookie Compliance
+- Resumen de privacidad
+- Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+- Cookies estrictamente necesarias
+- Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+- Activar o desactivar las cookies
+- Activado
+- Desactivado
+- Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+- Activar todo
+- Guardar ajustes
+
+### Enlaces encontrados
+
+- [Home](https://cibumgroup.com/)
+- [Galería](https://cibumgroup.com/galeria-cibum/)
+- [Carta cibum](https://cibumgroup.com/carta-cibum/)
+- [Menús para grupos](https://cibumgroup.com/menus-cibum/)
+- [Menús findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
+- [Menús Infantil](https://cibumgroup.com/menus-infantiles/)
+- [Cornella](https://cibumgroup.com/restaurante-cornella-llobregat/)
+- [Sant Boi](https://cibumgroup.com/home-2/)
+- https://cibumgroup.com
+- [Sant boi – construcción](https://cibumgroup.com/home-2/)
+- [Carta](https://cibumgroup.com/carta-cibum/)
+- [Menús cibum](https://cibumgroup.com/menus-cibum/)
+- [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
+- [Hello world!](https://cibumgroup.com/hello-world-2/)
+- [Hello world!](https://cibumgroup.com/hello-world/)
+- [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
+- [722 60 34 11](tel:722%2060%2034%2011)
+- [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
+- [Reservar una mesa](tel:722603411)
+- [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
+- [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
+- [Llámanos](tel:722%2060%2034%2011)
+
