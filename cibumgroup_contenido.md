@@ -151,7 +151,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -231,12 +231,12 @@
 - [Síguenos!](https://www.instagram.com/cibumgroup/)
 - [Ver + fotos y videos](https://cibumgroup.com/galeria-cibum/)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 2. https://cibumgroup.com/hello-world-2
 
@@ -315,7 +315,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -390,12 +390,12 @@
 - [Gravatar](https://gravatar.com/)
 - [Cancelar la respuesta](/hello-world-2/#respond)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 3. https://cibumgroup.com/hello-world
 
@@ -474,7 +474,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -549,12 +549,12 @@
 - [Gravatar](https://gravatar.com/)
 - [Cancelar la respuesta](/hello-world/#respond)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 4. https://cibumgroup.com/carta-cibum
 
@@ -645,7 +645,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -733,12 +733,12 @@
 - [Menú findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
 - [Carta completa](https://cibumgroup.com/carta-cibum/)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 5. https://cibumgroup.com/menus-findes-y-festivos-cibum
 
@@ -840,7 +840,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -917,12 +917,12 @@
 - [Ver menú](https://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-FIN-DE-SEMANA.pdf)
 - [Ver menú](http://cibumgroup.com/wp-content/uploads/2025/05/menu-cibum-FESTIVOS.pdf)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 6. https://cibumgroup.com/menus-cibum
 
@@ -1036,7 +1036,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -1114,12 +1114,12 @@
 - [Ver menú](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-GRUPO-FIN-DE-SEMANA-MEDIODIA.pdf)
 - [Ver menú](http://cibumgroup.com/wp-content/uploads/2025/05/MENU-GRUPO-123-ENTRESEMANA.pdf)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 7. https://cibumgroup.com/menus-infantiles
 
@@ -1204,7 +1204,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -1280,12 +1280,12 @@
 - [Carta completa](https://cibumgroup.com/carta-cibum/)
 - [Ver menú](https://cibumgroup.com/wp-content/uploads/2025/05/MENU-INFANTIL.pdf)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 8. https://cibumgroup.com/restaurante-cornella-llobregat
 
@@ -1412,7 +1412,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -1485,7 +1485,7 @@
 - [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
 - [Ver Carta](https://cibumgroup.com/menus-cibum/)
 - [Ver carta](https://cibumgroup.com/menus-cibum/)
-- [Reservar una mesa](tel:722%2060%2034%2011)
+- [Reservar una mesa](tel:722603411)
 - [Menús grupos](https://cibumgroup.com/menus-cibum/)
 - [Menú findes y festivos](https://cibumgroup.com/menus-findes-y-festivos-cibum/)
 - [Carta completa](https://cibumgroup.com/carta-cibum/)
@@ -1493,12 +1493,12 @@
 - [Síguenos!](https://www.instagram.com/cibumgroup/)
 - [🌿 Ir a Cibum Sant Boi](https://cibumgroup.com/home-2/)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 9. https://cibumgroup.com/home-2
 
@@ -1570,7 +1570,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -1642,12 +1642,12 @@
 - [Menús cibum](https://cibumgroup.com/menus-cibum/)
 - [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 10. https://cibumgroup.com/galeria-cibum
 
@@ -1734,7 +1734,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -1836,12 +1836,12 @@
 - https://cibumgroup.com/wp-content/uploads/2025/05/38.jpg
 - https://cibumgroup.com/wp-content/uploads/2025/05/43.jpg
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 11. https://cibumgroup.com/restaurante-en-sant-boi
 
@@ -1959,7 +1959,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -2034,12 +2034,12 @@
 - [🔥 Ir a Cibum Cornellà](https://cibumgroup.com/sitges/)
 - [Síguenos!](https://www.instagram.com/tantogusto.es/)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 12. https://cibumgroup.com/sitges
 
@@ -2263,7 +2263,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -2287,7 +2287,7 @@
 - ¿NECESITAS ALGO DE TG SITGES?
 - Lunes a Domingos
 - De 8:00 a 23:00
-- 631 33 38 91​
+- 722 60 34 11
 - A 2 minutos de la playa
 - Haz Click para ir a google maps
 - ¿DÓNDE NOS QUIERES VISITAR?
@@ -2341,18 +2341,18 @@
 - [Carta](https://cibumgroup.com/carta-cibum/)
 - [Menús cibum](https://cibumgroup.com/menus-cibum/)
 - [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
-- [Llámanos!](tel:631333891)
+- [Llámanos!](tel:722603411)
 - [Síguenos!](https://www.instagram.com/tantogusto.es/)
 - [Ver google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [Llamar](tel:631%2033%2038%2091)
+- [Llamar](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
 - [Haz Click para ir a google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 13. https://cibumgroup.com/vielha
 
@@ -2591,7 +2591,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -2615,7 +2615,7 @@
 - ¿NECESITAS ALGO DE TG vielha?
 - Lunes a Domingos
 - De 8:00 a 20:00
-- 973 82 85 13
+- 722 60 34 11
 - Haz Click para ir a google maps
 - ¿DÓNDE NOS QUIERES VISITAR?
 - Llámanos al local que quieras reservar una mesa
@@ -2668,17 +2668,17 @@
 - [Carta](https://cibumgroup.com/carta-cibum/)
 - [Menús cibum](https://cibumgroup.com/menus-cibum/)
 - [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
-- [Llámanos!](tel:973%2082%2085%2013)
+- [Llámanos!](tel:722603411)
 - [Síguenos!](https://www.instagram.com/tantogusto.es/)
 - [Ver google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a89b0770236c2b:0x5ec3b4969313ff2b!8m2!3d42.7031159!4d0.7935797!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11tm_f6t55?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
 - [Haz Click para ir a google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a89b0770236c2b:0x5ec3b4969313ff2b!8m2!3d42.7031159!4d0.7935797!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11tm_f6t55?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 14. https://cibumgroup.com/politica-de-cookies
 
@@ -2766,7 +2766,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -2840,12 +2840,12 @@
 - [Instrucciones](https://support.mozilla.org/es/kb/Deshabilitar%20cookies%20de%20terceros)
 - [Instrucciones](https://support.apple.com/es-es/HT201265)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 15. https://cibumgroup.com/politica-de-privacidad
 
@@ -2950,7 +2950,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -3022,12 +3022,12 @@
 - [Menús cibum](https://cibumgroup.com/menus-cibum/)
 - [Síguenos en insta!](https://www.instagram.com/cibumgroup/)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
 ## 16. https://cibumgroup.com/category/uncategorized
 
@@ -3099,7 +3099,7 @@
 - EL PLACER DE COMPARTIR
 - SANTBOI
 - Lunes a Domingos
-- 631 33 38 91​
+- 722 60 34 11
 - De 8:00 a 23:00
 - A 2 minutos de la playa
 - Click para google maps
@@ -3173,10 +3173,10 @@
 - [Hello world!](https://cibumgroup.com/hello-world-2/)
 - [Hello world!](https://cibumgroup.com/hello-world/)
 - [Click para google maps](https://www.google.es/maps/place/Tanto+Gusto+(comida+con+amor)/@40.020554,-4.6492256,7z/data=!4m10!1m2!2m1!1stanto+gusto!3m6!1s0x12a38171a2a255e9:0xa4b74bec7df53ef2!8m2!3d41.2365424!4d1.812671!15sCgt0YW50byBndXN0b1oNIgt0YW50byBndXN0b5IBDW1lYWxfdGFrZWF3YXngAQA!16s%2Fg%2F11pf29x9y6?hl=es&entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D)
-- [722 60 34 11](tel:722%2060%2034%2011)
+- [722 60 34 11](tel:722603411)
 - [Click para google maps](https://www.google.es/maps/place/Cibum+Group+Restaurante/@41.3524055,2.0791086,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4990c4ef1bf0d:0x9fb8ceb7f8854c04!8m2!3d41.3524015!4d2.0816835!16s%2Fg%2F11lkwdkqls?hl=es&entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D)
 - [Reservar una mesa](tel:722603411)
 - [Política de cookies](https://cibumgroup.com/politica-de-cookies/)
 - [Política de Privacidad](https://cibumgroup.com/politica-de-privacidad/)
-- [Llámanos](tel:722%2060%2034%2011)
+- [Llámanos](tel:722603411)
 
