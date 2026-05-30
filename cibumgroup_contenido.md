@@ -1390,7 +1390,7 @@
 - Quienes nos visitan destacan el trato cercano, la calidad de nuestras carnes y el sabor auténtico de nuestras paellas. Pero lo que más valoran es cómo los hacemos sentir: como en casa, pero mejor.
 - Visítanos
 - UN MENÚ DEL DÍA COMO MUY POCOS...
-- Tenemos un menú del día único, con carnes de primera, platos muy elaborados y postres caseros. A tan solo 15,90€!
+- Tenemos un menú del día único, con carnes de primera, platos muy elaborados y postres caseros. A tan solo 16,90€!
 - Ver menú del día
 - NO TE PIERDAS TODO LO QUE VIENE
 - ¡Síguenos y forma parte de nuestra comunidad!
