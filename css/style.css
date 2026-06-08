@@ -1001,53 +1001,6 @@ h1, h2, h3, h4 {
   color: rgba(255,255,255,0.45);
 }
 
-/* --- Testimonials --- */
-.testimonial {
-  background: var(--color-dark-2);
-  border: 1px solid rgba(255,255,255,0.07);
-  border-radius: var(--radius-lg);
-  padding: 2rem;
-  position: relative;
-}
-
-.testimonial::before {
-  content: '"';
-  position: absolute;
-  top: 1.5rem;
-  left: 1.75rem;
-  font-family: var(--font-display);
-  font-size: 4rem;
-  color: var(--color-gold);
-  opacity: 0.25;
-  line-height: 1;
-}
-
-.testimonial__text {
-  font-family: var(--font-elegant);
-  font-size: 1.05rem;
-  font-weight: 300;
-  font-style: italic;
-  color: rgba(255,255,255,0.8);
-  line-height: 1.75;
-  padding-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-.testimonial__stars {
-  color: var(--color-gold);
-  font-size: 0.9rem;
-  letter-spacing: 0.1em;
-  margin-bottom: 0.5rem;
-}
-
-.testimonial__author {
-  font-size: 0.8rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: rgba(255,255,255,0.45);
-}
-
 /* --- Full-width CTA Banner --- */
 .cta-banner {
   position: relative;
