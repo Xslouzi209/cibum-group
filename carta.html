@@ -208,29 +208,6 @@
     .carta-panel { display: none; }
     .carta-panel.active { display: block; }
 
-    /* Featured banner */
-    .featured-banner {
-      background: linear-gradient(135deg, var(--color-brand-dark), var(--color-brand));
-      border-radius: 4px;
-      padding: 2rem 2.5rem;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 1.5rem;
-      margin-bottom: 3rem;
-      flex-wrap: wrap;
-    }
-    .featured-banner__text h3 {
-      font-family: var(--font-display);
-      font-size: 1.4rem;
-      color: white;
-      margin-bottom: 0.4rem;
-    }
-    .featured-banner__text p {
-      font-size: 0.85rem;
-      color: rgba(255,255,255,0.7);
-    }
-
     @media (max-width: 768px) {
       .download-grid { grid-template-columns: 1fr; }
       .carta-pdf-grid--wide { grid-template-columns: 1fr; }
@@ -308,14 +285,7 @@
         <span class="eyebrow">Cartas en PDF</span>
         <div class="divider"></div>
         <h2 class="section-title">Consulta nuestras cartas</h2>
-        <p class="section-subtitle">Para evitar informacion duplicada, aqui tienes siempre las cartas en formato PDF. Elige la carta que necesitas y se abrira en una nueva pestana.</p>
-      </div>
-
-      <div class="featured-banner reveal">
-        <div class="featured-banner__text">
-          <h3>Cartas y menús disponibles</h3>
-          <p>Estos son los únicos documentos que deben aparecer en la web. Guarda los PDFs en la carpeta <strong>pdfs</strong> con los nombres indicados.</p>
-        </div>
+        <p class="section-subtitle">Elige la carta o menú que quieras consultar y se abrirá en una nueva pestaña.</p>
       </div>
 
       <div class="download-grid carta-pdf-grid carta-pdf-grid--wide reveal">
